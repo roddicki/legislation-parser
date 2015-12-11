@@ -23,31 +23,35 @@ class LegislationParser:
         self.level = level        
         self.debug("Started")
         self.grabatomfeed()
-        self.parsexml()
+        self.parsexmlfeed()
         self.output()
     
     def grabatomfeed(self):
         self.debug("Grabbing atom feed")
 
-    def parsexml(self):
+	# Parse the XML feed provided by: www.legislation.gov.uk/new/data.feed
+    def parsexmlfeed(self):
         self.debug('parsing xml')
         tree = ET.parse('atomdata.feed')
         root = tree.getroot()
-        #print(root)
         ns = "{http://www.w3.org/2005/Atom}"
+        metans = "{http://www.legislation.gov.uk/namespaces/metadata}"
         for entry in root.findall(ns+"entry"):
+            # Core data
             data = {'id':'','published':''}
-            # {http://www.w3.org/2005/Atom}published
-            # {http://www.legislation.gov.uk/namespaces/metadata}DocumentMainType
             data['id'] = entry.find(ns+'id').text
             data['title'] = entry.find(ns+'title').text
             data['updated'] = entry.find(ns+'updated').text
             data['published'] = entry.find(ns+'published').text
-            data['DocumentMainType'] = entry.find(ns+'published').text
-
-            # data['summary'] = entry.find(ns+'published').text
+            data['author'] = entry.find(ns+'author').text 
+            data['category'] = entry.find(ns+'category').attrib['term']
+            data['summary'] = entry.find(ns+'summary').text
+			# Grab metadata
+            data['DocumentMainType'] = entry.find(metans+'DocumentMainType').text
+            data['Number'] = entry.find(metans+'Number').attrib['Value']
+            data['ISBN'] = entry.find(metans+'ISBN').attrib['Value']
+            data['year'] = entry.find(metans+'Year').attrib['Value']
             print(data)
-            #att = str(child.attrib)
     
     def parsepigskin():
         self.debug("Gr")

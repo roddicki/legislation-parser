@@ -1,12 +1,8 @@
 # legislation-parser
-legislation, parse legislation data, atom parser
-
-Parses data provided by: www.legislation.gov.uk
+Parses data published by: www.legislation.gov.uk
 
 ## Parsing the atom feed
-*Latest legislation is published here:* http://www.legislation.gov.uk/new/data.feed
-
-This feed provides the following entries:
+The feed "www.legislation.gov.uk/new/data.feed" provides the following entries:
  
        <entry>
             <id>http://www.legislation.gov.uk/id/nisr/2015/404</id>
