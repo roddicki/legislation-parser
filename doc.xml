@@ -1,0 +1,87 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1978/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1978" NumberOfProvisions="6" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2015/1978">
+    <ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+        <dc:identifier>http://www.legislation.gov.uk/uksi/2015/1978/contents/made</dc:identifier>
+        <dc:title>The Value Added Tax (Amendment) Regulations 2015</dc:title>
+        <dc:language>en</dc:language>
+        <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+        <dc:modified>2015-12-08</dc:modified>
+        <dc:subject scheme="SIheading">VALUE ADDED TAX</dc:subject>
+        <dc:description>These Regulations come into force in accordance with regulation 2 and amend Part 14 (input tax and partial exemption) of the Value Added Tax Regulations 1995 (S.I. 1995/2518) (“the VAT Regulations”).</dc:description>
+        <atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2015/1978/contents/made/data.xml"/>
+        <atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2015/1978/resources" title="More Resources"/>
+        <atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2015/1978/made" title="whole act"/>
+        <atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2015/1978/introduction/made" title="introduction"/>
+        <atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2015/1978/signature/made" title="signature"/>
+        <atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2015/1978/note/made" title="note"/>
+        <atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2015/1978/body/made" title="body"/>
+        <atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2015/1978/contents/made/data.akn" title="AKN"/>
+        <atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2015/1978/contents/made/data.htm" title="HTML snippet"/>
+        <atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2015/1978/contents/made/data.pdf" title="PDF"/>
+        <atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2015/1978/contents/made/data.html" title="HTML5 snippet"/>
+        <ukm:SecondaryMetadata>
+            <ukm:DocumentClassification>
+                <ukm:DocumentCategory Value="secondary"/>
+                <ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+                <ukm:DocumentStatus Value="final"/>
+                <ukm:DocumentMinorType Value="regulation"/>
+            </ukm:DocumentClassification>
+            <ukm:Year Value="2015"/>
+            <ukm:Number Value="1978"/>
+            <ukm:Made Date="2015-12-07"/>
+            <ukm:Laid Date="2015-12-09" Class="UnitedKingdomParliament"/>
+            <ukm:ComingIntoForce>
+                <ukm:DateTime Date="2016-01-01"/>
+            </ukm:ComingIntoForce>
+            <ukm:ISBN Value="9780111141656"/>
+        </ukm:SecondaryMetadata>
+        <ukm:Alternatives>
+        <ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/1978/pdfs/uksi_20151978_en.pdf" Date="2015-12-09" Size="41325"/></ukm:Alternatives>		
+        <ukm:Statistics>
+            <ukm:TotalParagraphs Value="6"/>
+            <ukm:BodyParagraphs Value="6"/>
+            <ukm:ScheduleParagraphs Value="0"/>
+            <ukm:TotalImages Value="0"/>
+        </ukm:Statistics>
+    </ukm:Metadata>
+    <Contents>
+        <ContentsTitle>The Value Added Tax (Amendment) Regulations 2015</ContentsTitle>
+        <ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1978/regulation/1" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1978/regulation/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation, commencement and effect</ContentsTitle></ContentsItem><ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1978/regulation/2" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1978/regulation/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle Generated="true">(1) Regulations 4, 5 and 6 have effect as follows—...</ContentsTitle></ContentsItem>
+        <ContentsItem ContentRef="regulation-3" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1978/regulation/3" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1978/regulation/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Amendment of the Value Added Tax Regulations 1995</ContentsTitle></ContentsItem><ContentsItem ContentRef="regulation-4" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1978/regulation/4" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1978/regulation/4/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>4</ContentsNumber><ContentsTitle Generated="true">In regulation 101 (input tax and partial exemption: attribution of...</ContentsTitle></ContentsItem><ContentsItem ContentRef="regulation-5" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1978/regulation/5" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1978/regulation/5/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>5</ContentsNumber><ContentsTitle Generated="true">In paragraph (1A) of regulation 102 (input tax and partial...</ContentsTitle></ContentsItem><ContentsItem ContentRef="regulation-6" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1978/regulation/6" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1978/regulation/6/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>6</ContentsNumber><ContentsTitle Generated="true">In regulation 103 (input tax and partial exemption: attribution of...</ContentsTitle></ContentsItem>
+    </Contents>
+    <Secondary>
+        <SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2015/1978/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1978/introduction">
+            <Number>2015 No. 1978</Number>
+            <SubjectInformation>
+                <Subject>
+                    <Title>Value Added Tax</Title>
+                </Subject>
+                </SubjectInformation>
+            <Title>The Value Added Tax (Amendment) Regulations 2015</Title>
+            <MadeDate>
+                <Text>Made</Text>
+                <DateText>7th December 2015</DateText>
+            </MadeDate>
+            <LaidDate>
+                <Text>Laid before the House of Commons</Text>
+                <DateText>9th December 2015</DateText>
+            </LaidDate>
+            <ComingIntoForce>
+                <Text>Coming into force</Text>
+                <DateText>1st January 2016</DateText>
+            </ComingIntoForce>
+            <SecondaryPreamble>
+                <EnactingText>
+                    <Para>
+                    <Text>The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the powers conferred by sections 25(1) and 26(1), (3) and (4) of the Value Added Tax Act 1994<FootnoteRef Ref="f00001"/>, make the following Regulations:</Text></Para>
+                </EnactingText>
+            </SecondaryPreamble>
+        </SecondaryPrelims>
+    </Secondary>
+    <Footnotes>
+        <Footnote id="f00001">
+            <FootnoteText>
+                <Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1994/23" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1994" Number="0023">1994 c.23</Citation> (“the Act”). Section 96(1) of the Act defines “the Commissioners” to mean “the Commissioners of Customs and Excise” and “regulations” as meaning regulations made by the Commissioners under the Act. The functions of the Commissioners of Customs and Excise were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(1) of the Commissioners for Revenue and Customs Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/11" id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="2005" Number="0011">2005 (c.11)</Citation>, section 50(1) of which provides that a reference to the Commissioners of Customs and Excise shall be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs. Section 26(4) of the Act was amended by section 19 of, and paragraph 2 of Schedule 8 to, the Finance (<Abbreviation Expansion="Number">No.</Abbreviation> 3) Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2010/33" id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="2010" Number="0033">2010 (c.33)</Citation>.</Text></Para>
+            </FootnoteText>
+        </Footnote>
+    </Footnotes>
+</Legislation>
