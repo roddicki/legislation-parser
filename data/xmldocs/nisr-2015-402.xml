@@ -1,0 +1,75 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/nisr/2015/402/made" IdURI="http://www.legislation.gov.uk/id/nisr/2015/402" NumberOfProvisions="3" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/nisr/2015/402"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/nisr/2015/402/contents/made</dc:identifier><dc:title>The Payment of Pension Levies for Past Periods Regulations (Northern Ireland) 2015</dc:title><dc:language>en</dc:language><dc:publisher>Government Printer for Northern Ireland</dc:publisher><dc:modified>2015-12-10</dc:modified><dc:subject scheme="SIheading">PENSIONS</dc:subject>
+					<dc:description>These Regulations implement, in respect of payments of pension levies under the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1) and regulations made under it, in respect of periods before the coming into operation of the Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010 No. 32) and the Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010 No. 249), the Decision of the European Commission 55/2007/EC of 11th February 2009 (O.J. No. L242, 15.9.09, p.21) that the exemption from the payment of a levy to the Pension Protection Fund corresponding to the pension liabilities covered by a Crown guarantee constitutes State aid that is incompatible with the common market within the meaning of Article 107 of the Treaty on the Functioning of the European Union.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/nisr/2015/402/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/nisr/2015/402/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/id/nisr/2015/402/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/nisr/2015/402/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/nisr/2015/402/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/nisr/2015/402/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/nisr/2015/402/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/nisr/2015/402/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/nisr/2015/402/body/made" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/nisr/2015/402/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/nisr/2015/402/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/nisr/2015/402/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/nisr/2015/402/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="NorthernIrelandStatutoryRule"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="regulation"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="402"/><ukm:Made Date="2015-12-07"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2015-12-31"/></ukm:ComingIntoForce><ukm:ISBN Value="9780337999208"/></ukm:SecondaryMetadata>
+					
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/nisr/2015/402/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/nisr/2015/402/pdfs/nisrem_20150402_en.pdf" Date="2015-12-10" Title="Explanatory Memorandum" Size="16508"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/nisr/2015/402/pdfs/nisr_20150402_en.pdf" Date="2015-12-10" Size="110625"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="3"/>
+									<ukm:BodyParagraphs Value="3"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Payment of Pension Levies for Past Periods Regulations<Character Name="NonBreakingSpace"/>(Northern<Character Name="NonBreakingSpace"/>Ireland) 2015</ContentsTitle>
+
+<ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/nisr/2015/402/regulation/1" DocumentURI="http://www.legislation.gov.uk/nisr/2015/402/regulation/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation and commencement</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/nisr/2015/402/regulation/2" DocumentURI="http://www.legislation.gov.uk/nisr/2015/402/regulation/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Requirement to pay pension levies in respect of past periods</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-3" IdURI="http://www.legislation.gov.uk/id/nisr/2015/402/regulation/3" DocumentURI="http://www.legislation.gov.uk/nisr/2015/402/regulation/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Interest</ContentsTitle></ContentsItem>
+
+
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/nisr/2015/402/introduction/made" IdURI="http://www.legislation.gov.uk/id/nisr/2015/402/introduction">
+<Number>2015 No. 402</Number>
+<SubjectInformation>
+<Subject>
+<Title>Pensions</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Payment of Pension Levies for Past Periods Regulations<Character Name="NonBreakingSpace"/>(Northern<Character Name="NonBreakingSpace"/>Ireland) 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>7th December 2015</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into operation</Text>
+<DateText>31st December 2015</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 44(1) and (2)(b) and 51(6) of the Pensions Act (Northern Ireland) 2015<FootnoteRef Ref="f00001"/>.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/nia/2015/5" id="c00012" Class="NorthernIrelandAct" Year="2015" Number="0005">2015 c. 5 (N.I.)</Citation></Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

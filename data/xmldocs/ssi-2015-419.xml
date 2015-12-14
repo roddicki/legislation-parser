@@ -1,0 +1,107 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/made" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419" NumberOfProvisions="29" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/ssi/2015/419"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/ssi/2015/419/contents/made</dc:identifier><dc:title>Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer for Scotland</dc:publisher><dc:modified>2015-12-10</dc:modified><dc:subject scheme="SIheading">COURT OF SESSION</dc:subject><dc:subject scheme="SIheading">SHERIFF APPEAL COURT</dc:subject><dc:subject scheme="SIheading">SHERIFF COURT</dc:subject>
+					<dc:description>This Act of Sederunt amends the Rules of the Court of Session 1994 and various sheriff court rules in consequence of the Sheriff Appeal Court taking up its civil jurisdiction and competence on 1st January 2016. The amendments principally remove inconsistent appeal provisions from individual sets of rules as the procedure in the Sheriff Appeal Court will be regulated instead by the Act of Sederunt (Sheriff Appeal Court Rules) 2015.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/ssi/2015/419/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ssi/2015/419/resources" title="More Resources"/>
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ssi/2015/419/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ssi/2015/419/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/ssi/2015/419/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/ssi/2015/419/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ssi/2015/419/body/made" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/ssi/2015/419/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/ssi/2015/419/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/ssi/2015/419/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/ssi/2015/419/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="rule"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="419"/><ukm:Made Date="2015-12-08"/><ukm:Laid Date="2015-12-10" Class="ScottishParliament"/><ukm:ISBN Value="9780111030196"/></ukm:SecondaryMetadata>
+					
+					
+									
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/ssi/2015/419/pdfs/ssi_20150419_en.pdf" Date="2015-12-10" Size="109490"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="29"/>
+									<ukm:BodyParagraphs Value="29"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015</ContentsTitle>
+
+<ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/1" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation and commencement, <Abbreviation Expansion="et cetera" xml:lang="la">etc.</Abbreviation></ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/2" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Amendment of the Act of Sederunt (Expenses of Party Litigants) 1976</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-3" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/3" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Amendment of the Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-4" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/4" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/4/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>4</ContentsNumber><ContentsTitle>Amendment of the Act of Sederunt (Proceedings in the Sheriff Court under the Debtors (Scotland) Act 1987) 1988</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-5" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/5" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/5/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>5</ContentsNumber><ContentsTitle>Amendment of the Ordinary Cause Rules 1993</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-6" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/6" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/6/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>6</ContentsNumber><ContentsTitle>Amendment of the Act of Sederunt (Summary Suspension) 1993</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-7" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/7" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/7/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>7</ContentsNumber><ContentsTitle>Amendment of the Rules of the Court of Session 1994</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-8" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/8" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/8/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>8</ContentsNumber><ContentsTitle>Amendment of the Act of Sederunt (Child Care and Maintenance Rules) 1997</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-9" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/9" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/9/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>9</ContentsNumber><ContentsTitle>Amendment of the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-10" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/10" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/10/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>10</ContentsNumber><ContentsTitle>Amendment of the Act of Sederunt (Proceedings for Determination of Devolution Issues Rules) 1999</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-11" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/11" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/11/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>11</ContentsNumber><ContentsTitle>Amendment of the Summary Cause Rules 2002</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-12" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/12" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/12/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>12</ContentsNumber><ContentsTitle>Amendment of the Small Claim Rules 2002</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-13" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/13" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/13/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>13</ContentsNumber><ContentsTitle>Amendment of the Rules for Applications in the Sheriff Court under the Debt Arrangement and Attachment (Scotland) Act 2002</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-14" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/14" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/14/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>14</ContentsNumber><ContentsTitle>Amendment of the Sheriff Court Bankruptcy Rules</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-15" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/15" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/15/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>15</ContentsNumber><ContentsTitle>Amendment of the Sheriff Court Adoption Rules 2009</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-16" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/16" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/16/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>16</ContentsNumber><ContentsTitle>Amendment of the Money Attachment Rules 2009</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-17" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/17" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/17/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>17</ContentsNumber><ContentsTitle>Amendment of the Act of Sederunt (Contempt of Court in Civil Proceedings) 2011</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-18" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/18" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/18/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>18</ContentsNumber><ContentsTitle>Amendment of the Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (<Abbreviation Expansion="Number">No.</Abbreviation> 2) (Personal Injury and Remits) 2015</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-19" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/19" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/19/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>19</ContentsNumber><ContentsTitle>Amendment of the Act of Sederunt (Sheriff Appeal Court Rules) 2015</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-20" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/article/20" DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/article/20/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>20</ContentsNumber><ContentsTitle>Saving provisions</ContentsTitle></ContentsItem>
+
+
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/ssi/2015/419/introduction/made" IdURI="http://www.legislation.gov.uk/id/ssi/2015/419/introduction">
+<Number>2015 No. 419</Number>
+<SubjectInformation>
+<Subject>
+<Title>Court Of Session</Title>
+</Subject>
+<Subject>
+<Title>Sheriff Appeal Court</Title>
+</Subject>
+<Subject>
+<Title>Sheriff Court</Title>
+</Subject>
+</SubjectInformation>
+<Title>Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>8th December 2015</DateText>
+</MadeDate>
+<LaidDate>
+<Text>Laid before the Scottish Parliament</Text>
+<DateText>10th December 2015</DateText>
+</LaidDate>
+<ComingIntoForce>
+<Text>Coming into force in accordance with paragraph 1(2) and (3)</Text></ComingIntoForce>
+<SecondaryPreamble>
+<IntroductoryText>
+<P>
+<Text>In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013<FootnoteRef Ref="f00001"/>, the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council with such modifications as it thinks appropriate.</Text></P>
+</IntroductoryText>
+<EnactingText>
+<Para>
+<Text>The Court of Session therefore makes this Act of Sederunt under the powers conferred by sections 103(1) and 104(1) of the Courts Reform (Scotland) Act 2014<FootnoteRef Ref="f00002"/> and all other powers enabling it to do so.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/asp/2013/3" id="c00001" Class="ScottishAct" Year="2013" Number="0003">2013 asp 3</Citation>. Section 4 was amended by the Courts Reform (Scotland) Act <Citation URI="http://www.legislation.gov.uk/id/asp/2014/18" id="c00002" Class="ScottishAct" Year="2014" Number="0018">2014 (asp 18)</Citation>, schedule 5, paragraph 31(3).</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/asp/2014/18" id="c00003" Class="ScottishAct" Year="2014" Number="0018">2014 asp 18</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

@@ -1,0 +1,87 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982" NumberOfProvisions="13" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2015/1982"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2015/1982/contents/made</dc:identifier><dc:title>The European Parliamentary Elections (Miscellaneous Provisions) (United Kingdom and Gibraltar) Order 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2015-12-08</dc:modified><dc:subject scheme="SIheading">NATIONAL ELECTION EXPENDITURE</dc:subject><dc:subject scheme="SIheading">POLITICAL PARTIES</dc:subject><dc:subject scheme="SIheading">REPRESENTATION OF THE PEOPLE</dc:subject>
+					<dc:description>This Order updates the Political Parties, Elections and Referendums Act 2000 (c. 41) to reflect changes in the law of Gibraltar and makes other miscellaneous amendments to provisions in the 2000 Act that apply in Gibraltar.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2015/1982/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2015/1982/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/id/uksi/2015/1982/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2015/1982/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2015/1982/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2015/1982/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2015/1982/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2015/1982/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2015/1982/body/made" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/uksi/2015/1982/schedules/made" title="schedules"/>
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2015/1982/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2015/1982/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2015/1982/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2015/1982/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/supersedes" href="http://www.legislation.gov.uk/id/ukdsi/2015/9780111140048" title="The European Parliamentary Elections (Miscellaneous Provisions) (United Kingdom and Gibraltar) Order 2015"/>
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="1982"/><ukm:Made Date="2015-12-07"/><ukm:ISBN Value="9780111141700"/></ukm:SecondaryMetadata>
+					<ukm:Supersedes URI="http://www.legislation.gov.uk/id/ukdsi/2015/9780111140048"><dc:title>The European Parliamentary Elections (Miscellaneous Provisions) (United Kingdom and Gibraltar) Order 2015</dc:title><ukm:DocumentMainType Value="UnitedKingdomDraftStatutoryInstrument"/><ukm:Year Value="2015"/><ukm:ISBN Value="9780111140048"/></ukm:Supersedes>
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/1982/pdfs/uksiem_20151982_en.pdf" Date="2015-12-10" Title="UK Explanatory Memorandum" Size="30043"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/1982/pdfs/uksi_20151982_en.pdf" Date="2015-12-10" Size="41857"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="13"/>
+									<ukm:BodyParagraphs Value="3"/>
+									<ukm:ScheduleParagraphs Value="10"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The European Parliamentary Elections (Miscellaneous Provisions) (United Kingdom and Gibraltar) Order 2015</ContentsTitle>
+
+<ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/article/1" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/article/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation, commencement and extent</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/article/2" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/article/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Amendments to the Political Parties, Elections and Referendums Act 2000</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-3" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/article/3" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/article/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Transitional provision</ContentsTitle></ContentsItem>
+
+
+<ContentsSchedules>
+<ContentsSchedule ContentRef="schedule" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/schedule" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/schedule/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>SCHEDULE</ContentsNumber><ContentsTitle>Amendments to the Political Parties, Elections and Referendums Act 2000</ContentsTitle><ContentsItem ContentRef="schedule-paragraph-1" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/schedule/paragraph/1" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/schedule/paragraph/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle Generated="true">In section 24(8)(b) (office-holders to be registered), for “House of...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-2" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/schedule/paragraph/2" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/schedule/paragraph/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle Generated="true">In section 54(2A) (permissible donors)— (a) for paragraph (b) substitute—...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-3" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/schedule/paragraph/3" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/schedule/paragraph/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle Generated="true">In section 74(3) (officers of registered party with responsibility for...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-4" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/schedule/paragraph/4" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/schedule/paragraph/4/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>4</ContentsNumber><ContentsTitle Generated="true">In section 88 (third parties recognised for the purposes of...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-5" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/schedule/paragraph/5" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/schedule/paragraph/5/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>5</ContentsNumber><ContentsTitle Generated="true">In section 150(4) (punishment of offences), for “pursuant to section...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-6" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/schedule/paragraph/6" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/schedule/paragraph/6/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>6</ContentsNumber><ContentsTitle Generated="true">In section 151(4A) (summary proceedings), for “section 117 of the...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-7" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/schedule/paragraph/7" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/schedule/paragraph/7/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>7</ContentsNumber><ContentsTitle Generated="true">In section 153(5A) (offences committed by unincorporated associations), for “Sections...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-8" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/schedule/paragraph/8" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/schedule/paragraph/8/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>8</ContentsNumber><ContentsTitle Generated="true">In section 160 (general interpretation)— (a) in the definition of...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-9" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/schedule/paragraph/9" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/schedule/paragraph/9/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>9</ContentsNumber><ContentsTitle Generated="true">In Schedule 6 (details to be given in donation reports)—...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-10" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/schedule/paragraph/10" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/schedule/paragraph/10/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>10</ContentsNumber><ContentsTitle Generated="true">In Schedule 6A (details to be given in transaction reports)—...</ContentsTitle></ContentsItem></ContentsSchedule>
+</ContentsSchedules>
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2015/1982/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1982/introduction">
+<Number>2015 No. 1982</Number>
+<SubjectInformation>
+<Subject>
+<Title>National Election Expenditure</Title>
+</Subject>
+<Subject>
+<Title>Political Parties</Title>
+</Subject>
+<Subject>
+<Title>Representation Of The People</Title>
+</Subject>
+</SubjectInformation>
+<Title>The European Parliamentary Elections (Miscellaneous Provisions) (United Kingdom and Gibraltar) Order 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>7th December 2015</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into force in accordance with article 1(2)</Text></ComingIntoForce>
+<SecondaryPreamble>
+<IntroductoryText>
+<P>
+<Text>The Chancellor of the Duchy of Lancaster makes this Order in exercise of the powers conferred by sections 12 and 13(3) and (4) of the European Parliament (Representation) Act 2003<FootnoteRef Ref="f00001"/>.</Text></P>
+<P>
+<Text>In accordance with section 12(5) of that Act, the Chancellor of the Duchy of Lancaster has consulted the Electoral Commission before making this Order.</Text></P>
+</IntroductoryText>
+<EnactingText>
+<Para>
+<Text>In accordance with section 13(5) of that Act, a draft of this Order has been laid before and approved by a resolution of each House of Parliament.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2003/7" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="2003" Number="0007">2003 c. 7</Citation>; sections 12 and 13 were amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2003/1887" id="c00003" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="1887">S.I. 2003/1887</Citation>. The Secretary of State’s functions under the 2003 Act are exercisable concurrently with the Chancellor of the Duchy of Lancaster by virtue of article 3 of, and Schedule 1 to, <Citation URI="http://www.legislation.gov.uk/id/uksi/2015/1376" id="c00004" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="1376">S.I. 2015/1376</Citation>; the functions were previously made exercisable by the Lord President of the Council (concurrently with the Secretary of State) by virtue of article 3 of <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/1837" id="c00005" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="1837">S.I. 2010/1837</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

@@ -1,0 +1,78 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/nisr/2015/404/made" IdURI="http://www.legislation.gov.uk/id/nisr/2015/404" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/nisr/2015/404"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/nisr/2015/404/contents/made</dc:identifier><dc:title>The Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) (Amendment) Regulations (Northern Ireland) 2015</dc:title><dc:language>en</dc:language><dc:publisher>Government Printer for Northern Ireland</dc:publisher><dc:modified>2015-12-10</dc:modified><dc:subject scheme="SIheading">SOCIAL SECURITY</dc:subject>
+					<dc:description>These Regulations amend the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001 (“the Crediting and Treatment Regulations”) to disapply the requirement to apply for a National Insurance number in the case of a person in respect of whom the Department for Social Development or the Commissioners of Her Majesty’s Revenue and Customs are notified that a biometric immigration document is to be issued under regulation 13A of the Immigration (Biometric Registration) Regulations 2008 (S.I. 2008/3048 as amended by S.I. 2015/433) (“the 2008 Regulations”). Regulation 13A covers cases involving an application for entry clearance. There is already a similar disapplication for cases where a biometric immigration document is issued under regulation 13 of the 2008 Regulations.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/nisr/2015/404/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/nisr/2015/404/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/id/nisr/2015/404/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/nisr/2015/404/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/nisr/2015/404/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/nisr/2015/404/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/nisr/2015/404/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/nisr/2015/404/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/nisr/2015/404/body/made" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/nisr/2015/404/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/nisr/2015/404/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/nisr/2015/404/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/nisr/2015/404/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="NorthernIrelandStatutoryRule"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="regulation"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="404"/><ukm:Made Date="2015-12-07"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2015-12-28"/></ukm:ComingIntoForce><ukm:ISBN Value="9780337999222"/></ukm:SecondaryMetadata>
+					
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/nisr/2015/404/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/nisr/2015/404/pdfs/nisrem_20150404_en.pdf" Date="2015-12-10" Title="Explanatory Memorandum" Size="16505"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/nisr/2015/404/pdfs/nisr_20150404_en.pdf" Date="2015-12-10" Size="106053"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="2"/>
+									<ukm:BodyParagraphs Value="2"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) (Amendment) Regulations (Northern Ireland) 2015</ContentsTitle>
+
+<ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/nisr/2015/404/regulation/1" DocumentURI="http://www.legislation.gov.uk/nisr/2015/404/regulation/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation and commencement</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/nisr/2015/404/regulation/2" DocumentURI="http://www.legislation.gov.uk/nisr/2015/404/regulation/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Amendment of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations</ContentsTitle></ContentsItem>
+
+
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/nisr/2015/404/introduction/made" IdURI="http://www.legislation.gov.uk/id/nisr/2015/404/introduction">
+<Number>2015 No. 404</Number>
+<SubjectInformation>
+<Subject>
+<Title>Social Security</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) (Amendment) Regulations (Northern Ireland) 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>7th December 2015</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into operation</Text>
+<DateText>28th December 2015</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 158C and 165(1) and (4) of the Social Security Administration (Northern Ireland) Act 1992<FootnoteRef Ref="f00001"/> and now vested in it<FootnoteRef Ref="f00002"/>.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1992/8" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1992" Number="0008">1992 c.8</Citation>; section 158C was inserted by paragraph 6 of Schedule 1 to the Social Security Administration (Fraud) (Northern Ireland) Order 1997 (<Citation URI="http://www.legislation.gov.uk/id/nisi/1997/1182" id="c00004" Class="NorthernIrelandOrderInCouncil" Year="1997" Number="1182" AlternativeNumber="N.I 11">S.I. 1997/1182 (N.I.11)</Citation>) and amended by paragraph 34 of Schedule 1 to the Social Security Contributions (Transfer of Functions, <Abbreviation Expansion="et cetera" xml:lang="la">etc.</Abbreviation>) (Northern Ireland) Order 1999 (<Citation URI="http://www.legislation.gov.uk/id/uksi/1999/671" id="c00005" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="0671">S.I. 1999/671</Citation>)</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para><Text><Emphasis>See</Emphasis> Article 8(b) of <Citation URI="http://www.legislation.gov.uk/id/nisr/1999/481" id="c00006" Class="NorthernIrelandStatutoryRule" Year="1999" Number="0481">S.R. 1999 No. 481</Citation></Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

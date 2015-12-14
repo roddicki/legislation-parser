@@ -1,0 +1,82 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1994/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1994" NumberOfProvisions="3" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2015/1994"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2015/1994/contents/made</dc:identifier><dc:title>The Immigration (Designation of Travel Bans) (Amendment No. 2) Order 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2015-12-09</dc:modified><dc:subject scheme="SIheading">IMMIGRATION</dc:subject>
+					<dc:description>This Order amends the Immigration (Designation of Travel Bans) Order 2000 (“the 2000 Order”) by substituting a new Schedule into the 2000 Order. Any person named by or under an instrument listed in the new Schedule, or falling within a description in such an instrument, will be excluded from the United Kingdom (subject to the exceptions specified in article 3 of the 2000 Order).</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2015/1994/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2015/1994/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/id/uksi/2015/1994/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2015/1994/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2015/1994/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2015/1994/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2015/1994/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2015/1994/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2015/1994/body/made" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/uksi/2015/1994/schedules/made" title="schedules"/>
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2015/1994/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2015/1994/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2015/1994/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2015/1994/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="1994"/><ukm:Made Date="2015-12-07"/><ukm:Laid Date="2015-12-10" Class="UnitedKingdomParliament"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2015-12-21"/></ukm:ComingIntoForce><ukm:ISBN Value="9780111141755"/></ukm:SecondaryMetadata>
+					
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2015/1994/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/1994/pdfs/uksiem_20151994_en.pdf" Date="2015-12-10" Title="UK Explanatory Memorandum" Size="35798"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/1994/pdfs/uksi_20151994_en.pdf" Date="2015-12-10" Size="68843"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="3"/>
+									<ukm:BodyParagraphs Value="3"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Immigration (Designation of Travel Bans) (Amendment<Character Name="NonBreakingSpace"/><Abbreviation Expansion="Number">No.</Abbreviation><Character Name="NonBreakingSpace"/>2)<Character Name="NonBreakingSpace"/>Order<Character Name="NonBreakingSpace"/>2015</ContentsTitle>
+
+<ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1994/article/1" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1994/article/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle Generated="true">This Order may be cited as the Immigration (Designation of...</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1994/article/2" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1994/article/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle Generated="true">For the Schedule to the Immigration (Designation of Travel Bans)...</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-3" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1994/article/3" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1994/article/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle Generated="true">The Immigration (Designation of Travel Bans) (Amendment) Order 2015 is...</ContentsTitle></ContentsItem>
+
+
+<ContentsSchedules>
+<ContentsSchedule ContentRef="schedule" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1994/schedule" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1994/schedule/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>SCHEDULE</ContentsNumber></ContentsSchedule>
+</ContentsSchedules>
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2015/1994/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1994/introduction">
+<Number>2015 No. 1994</Number>
+<SubjectInformation>
+<Subject>
+<Title>Immigration</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Immigration (Designation of Travel Bans) (Amendment<Character Name="NonBreakingSpace"/>No.<Character Name="NonBreakingSpace"/>2)<Character Name="NonBreakingSpace"/>Order<Character Name="NonBreakingSpace"/>2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>7th December 2015</DateText>
+</MadeDate>
+<LaidDate>
+<Text>Laid before Parliament</Text>
+<DateText>10th December 2015</DateText>
+</LaidDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>21st December 2015</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Secretary of State, in exercise of the powers conferred by section 8B(5) of the Immigration Act 1971<FootnoteRef Ref="f00001"/>, makes the following Order:</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1971/77" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1971" Number="0077">1971 c.77</Citation>. Section 8B was inserted by section 8 of the Immigration and Asylum Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1999/33" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1999" Number="0033">1999 (c.33)</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

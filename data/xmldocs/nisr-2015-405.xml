@@ -1,0 +1,77 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/nisr/2015/405/made" IdURI="http://www.legislation.gov.uk/id/nisr/2015/405" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/nisr/2015/405"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/nisr/2015/405/contents/made</dc:identifier><dc:title>The Firearms (Variation of Fees) Order (Northern Ireland) 2015</dc:title><dc:language>en</dc:language><dc:publisher>Government Printer for Northern Ireland</dc:publisher><dc:modified>2015-12-10</dc:modified><dc:subject scheme="SIheading">FIREARMS AND AMMUNITION</dc:subject>
+					<dc:description>This Order varies certain fees payable under the Firearms (Northern Ireland) Order 2004.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/nisr/2015/405/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/nisr/2015/405/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/id/nisr/2015/405/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/nisr/2015/405/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/nisr/2015/405/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/nisr/2015/405/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/nisr/2015/405/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/nisr/2015/405/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/nisr/2015/405/body/made" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/nisr/2015/405/schedules/made" title="schedules"/>
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/nisr/2015/405/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/nisr/2015/405/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/nisr/2015/405/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/nisr/2015/405/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="NorthernIrelandStatutoryRule"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="405"/><ukm:Made Date="2015-12-01"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2016-02-22"/></ukm:ComingIntoForce><ukm:ISBN Value="9780337999239"/></ukm:SecondaryMetadata>
+					
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/nisr/2015/405/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/nisr/2015/405/pdfs/nisrem_20150405_en.pdf" Date="2015-12-10" Title="Explanatory Memorandum" Size="15377"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/nisr/2015/405/pdfs/nisr_20150405_en.pdf" Date="2015-12-10" Size="110566"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="2"/>
+									<ukm:BodyParagraphs Value="2"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Firearms (Variation of Fees) Order (Northern Ireland) 2015</ContentsTitle>
+
+<ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/nisr/2015/405/article/1" DocumentURI="http://www.legislation.gov.uk/nisr/2015/405/article/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation, commencement and interpretation</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/nisr/2015/405/article/2" DocumentURI="http://www.legislation.gov.uk/nisr/2015/405/article/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Amendment to fees</ContentsTitle></ContentsItem>
+
+
+<ContentsSchedules>
+<ContentsSchedule ContentRef="schedule" IdURI="http://www.legislation.gov.uk/id/nisr/2015/405/schedule" DocumentURI="http://www.legislation.gov.uk/nisr/2015/405/schedule/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>SCHEDULE</ContentsNumber><ContentsTitle>FEES</ContentsTitle></ContentsSchedule>
+</ContentsSchedules>
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/nisr/2015/405/introduction/made" IdURI="http://www.legislation.gov.uk/id/nisr/2015/405/introduction">
+<Number>2015 No. 405</Number>
+<SubjectInformation>
+<Subject>
+<Title>Firearms And Ammunition</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Firearms (Variation of Fees) Order (Northern Ireland) 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>1st December 2015</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into operation</Text>
+<DateText><Emphasis>22</Emphasis>nd February 2016</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Department of Justice, with the approval of the Department of Finance and Personnel, makes the following Order in exercise of the powers conferred by Article 75(3) of the Firearms (Northern Ireland) Order 2004 (“the 2004 Order”)<FootnoteRef Ref="f00001"/>.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/nisi/2004/702" id="c00001" Class="NorthernIrelandOrderInCouncil" Year="2004" Number="0702" AlternativeNumber="N.I 3">S.I. 2004/702 (N.I. 3)</Citation> Article 75(3) was amended by paragraphs 3(f) and 9(a) of Schedule 11 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (<Citation URI="http://www.legislation.gov.uk/id/uksi/2010/976" id="c00002" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="0976">S.I. 2010/976</Citation>).</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>
