@@ -1,0 +1,83 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/nisr/2015/408/made" IdURI="http://www.legislation.gov.uk/id/nisr/2015/408" NumberOfProvisions="4" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/nisr/2015/408"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/nisr/2015/408/contents/made</dc:identifier><dc:title>The Common Agricultural Policy (Review of SCMO Decisions) Regulations (Northern Ireland) 2015</dc:title><dc:language>en</dc:language><dc:publisher>Government Printer for Northern Ireland</dc:publisher><dc:modified>2015-12-15</dc:modified><dc:subject scheme="SIheading">AGRICULTURE</dc:subject>
+					<dc:description>These Regulations enable the Department to establish procedures for the review of a relevant determination made by the Department under any of the EU instruments listed in the Schedule to the Regulations, or any statutory provision which implements or supplements those EU instruments in Northern Ireland.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/nisr/2015/408/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/nisr/2015/408/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/id/nisr/2015/408/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/nisr/2015/408/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/nisr/2015/408/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/nisr/2015/408/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/nisr/2015/408/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/nisr/2015/408/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/nisr/2015/408/body/made" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/nisr/2015/408/schedules/made" title="schedules"/>
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/nisr/2015/408/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/nisr/2015/408/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/nisr/2015/408/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/nisr/2015/408/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="NorthernIrelandStatutoryRule"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="regulation"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="408"/><ukm:Made Date="2015-12-10"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2016-01-01"/></ukm:ComingIntoForce><ukm:ISBN Value="9780337999277"/></ukm:SecondaryMetadata>
+					
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/nisr/2015/408/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/nisr/2015/408/pdfs/nisrem_20150408_en.pdf" Date="2015-12-15" Title="Explanatory Memorandum" Size="79712"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/nisr/2015/408/pdfs/nisr_20150408_en.pdf" Date="2015-12-15" Size="147048"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="4"/>
+									<ukm:BodyParagraphs Value="4"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Common Agricultural Policy (Review of SCMO Decisions) Regulations (Northern Ireland) 2015</ContentsTitle>
+
+<ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/nisr/2015/408/regulation/1" DocumentURI="http://www.legislation.gov.uk/nisr/2015/408/regulation/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Title and commencement</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/nisr/2015/408/regulation/2" DocumentURI="http://www.legislation.gov.uk/nisr/2015/408/regulation/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Interpretation</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-3" IdURI="http://www.legislation.gov.uk/id/nisr/2015/408/regulation/3" DocumentURI="http://www.legislation.gov.uk/nisr/2015/408/regulation/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Application</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-4" IdURI="http://www.legislation.gov.uk/id/nisr/2015/408/regulation/4" DocumentURI="http://www.legislation.gov.uk/nisr/2015/408/regulation/4/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>4</ContentsNumber><ContentsTitle>Review of Determinations</ContentsTitle></ContentsItem>
+
+
+<ContentsSchedules>
+<ContentsSchedule ContentRef="schedule" IdURI="http://www.legislation.gov.uk/id/nisr/2015/408/schedule" DocumentURI="http://www.legislation.gov.uk/nisr/2015/408/schedule/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>SCHEDULE</ContentsNumber><ContentsTitle>Community Instruments to which these Regulations apply</ContentsTitle></ContentsSchedule>
+</ContentsSchedules>
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/nisr/2015/408/introduction/made" IdURI="http://www.legislation.gov.uk/id/nisr/2015/408/introduction">
+<Number>2015 No. 408</Number>
+<SubjectInformation>
+<Subject>
+<Title>Agriculture</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Common Agricultural Policy (Review of SCMO Decisions) Regulations (Northern Ireland) 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>10th December 2015</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into operation</Text>
+<DateText>1st January 2016</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Department of Agriculture and Rural Development, being a Department designated <FootnoteRef Ref="f00001"/> for the purposes of section 2(2) of the European Communities Act 1972 <FootnoteRef Ref="f00002"/> in relation to the common agricultural policy of the European Community and in relation to the promotion of rural development, in exercise of the powers conferred on it by the said section 2(2), hereby makes the following Regulations.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/uksi/2000/2812" id="c00108" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="2812">S.I.2000/2812</Citation> to which there are amendments not relevant to the subject matter of these Regulations and <Citation URI="http://www.legislation.gov.uk/id/uksi/2000/3228" id="c00109" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="3228">S.I.2000/3228</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1972/68" id="c00110" Class="UnitedKingdomPublicGeneralAct" Year="1972" Number="0068">1972 c.68</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

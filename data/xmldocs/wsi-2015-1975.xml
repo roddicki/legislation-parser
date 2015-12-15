@@ -1,0 +1,86 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/wsi/2015/1975/made" IdURI="http://www.legislation.gov.uk/id/wsi/2015/1975" NumberOfProvisions="3" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/wsi/2015/1975"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/wsi/2015/1975/contents/made</dc:identifier><dc:title>The Agricultural Holdings (Units of Production) (Wales) (No. 3) Order 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2015-12-14</dc:modified><dc:subject scheme="SIheading">LANDLORD AND TENANT, WALES</dc:subject>
+					<dc:description>This Order prescribes units of production for the assessment of the productive capacity of agricultural land situated in Wales and sets out the amount which is to be regarded as the net annual income from each such unit for the year 12 September 2015 to 11 September 2016 for certain purposes of the Agricultural Holdings Act 1986 (“the 1986 Act”).</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/wsi/2015/1975/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/wsi/2015/1975/resources" title="More Resources"/>
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/wsi/2015/1975/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/wsi/2015/1975/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/wsi/2015/1975/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/wsi/2015/1975/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/wsi/2015/1975/body/made" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/wsi/2015/1975/schedules/made" title="schedules"/>
+					<atom:link rel="alternate" hreflang="cy" href="http://www.legislation.gov.uk/wsi/2015/1975/contents/made/welsh"/>
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/wsi/2015/1975/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/wsi/2015/1975/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/wsi/2015/1975/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/wsi/2015/1975/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="WelshStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="1975"/><ukm:AlternativeNumber Category="W" Value="296"/><ukm:Made Date="2015-12-02"/><ukm:Laid Date="2015-12-08" Class="WelshAssembly"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2015-12-30"/></ukm:ComingIntoForce><ukm:ISBN Value="9780348111996"/></ukm:SecondaryMetadata>
+					
+					
+									
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/wsi/2015/1975/pdfs/wsi_20151975_mi.pdf" Date="2015-12-14" Size="430731" Language="Mixed"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="3"/>
+									<ukm:BodyParagraphs Value="3"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Agricultural Holdings (Units of Production) (Wales) (<Abbreviation Expansion="Number">No.</Abbreviation> 3) Order 2015</ContentsTitle>
+
+<ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/wsi/2015/1975/article/1" DocumentURI="http://www.legislation.gov.uk/wsi/2015/1975/article/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Title, commencement, application and interpretation</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/wsi/2015/1975/article/2" DocumentURI="http://www.legislation.gov.uk/wsi/2015/1975/article/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Assessment of productive capacity of land</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-3" IdURI="http://www.legislation.gov.uk/id/wsi/2015/1975/article/3" DocumentURI="http://www.legislation.gov.uk/wsi/2015/1975/article/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Amendment of the Agricultural Holdings (Units of Production) (Wales) (No. 2) Order 2015</ContentsTitle></ContentsItem>
+
+
+<ContentsSchedules>
+<ContentsSchedule ContentRef="schedule" IdURI="http://www.legislation.gov.uk/id/wsi/2015/1975/schedule" DocumentURI="http://www.legislation.gov.uk/wsi/2015/1975/schedule/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>SCHEDULE</ContentsNumber><ContentsTitle>PRESCRIBED UNITS OF PRODUCTION AND DETERMINATION OF NET ANNUAL INCOME</ContentsTitle></ContentsSchedule>
+</ContentsSchedules>
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/wsi/2015/1975/introduction/made" IdURI="http://www.legislation.gov.uk/id/wsi/2015/1975/introduction">
+<Number>2015 No. 1975 (W. 296)</Number>
+<SubjectInformation>
+<Subject>
+<Title>Landlord And Tenant, Wales</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Agricultural Holdings (Units of Production) (Wales) (No. 3) Order 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>2 December 2015</DateText>
+</MadeDate>
+<LaidDate>
+<Text>Laid before the National Assembly for Wales</Text>
+<DateText>8 December 2015</DateText>
+</LaidDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>30 December 2015</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Welsh Ministers, in exercise of the powers conferred by paragraph 4 of Schedule 6 to the Agricultural Holdings Act 1986<FootnoteRef Ref="f00001"/> and now vested in them<FootnoteRef Ref="f00002"/>, make the following Order.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1986/5" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1986" Number="0005">1986 c. 5</Citation>; section 96(1) of that Act defines “the Minister”.</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para><Text>Functions conferred under the Agricultural Holdings Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1986/5" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1986" Number="0005">1986 (c. 5)</Citation> were transferred to the National Assembly for Wales by article 2 of and Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 (<Citation URI="http://www.legislation.gov.uk/id/ukpga/1999/672" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1999" Number="0672">S.I. 1999/672</Citation>). Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/32" id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0032">2006 (c. 32)</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

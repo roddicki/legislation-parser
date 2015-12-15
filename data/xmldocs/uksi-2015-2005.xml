@@ -1,0 +1,93 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2005/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2005" NumberOfProvisions="3" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2015/2005"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2015/2005/contents/made</dc:identifier><dc:title>The Civil Legal Aid (Merits Criteria and Information about Financial Resources) (Amendment) Regulations 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2015-12-10</dc:modified><dc:subject scheme="SIheading">LEGAL AID AND ADVICE, ENGLAND AND WALES</dc:subject>
+					<dc:description>These Regulations amend the Civil Legal Aid (Merits Criteria) Regulations 2013 (S.I. 2013/104) (“the Merits Criteria Regulations”), which make provision for the criteria which the Director of Legal Aid Casework must apply when determining whether an individual or legal person qualifies for civil legal services under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10) (“the Act”).</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2015/2005/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2015/2005/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/id/uksi/2015/2005/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2015/2005/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2015/2005/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2015/2005/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2015/2005/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2015/2005/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2015/2005/body/made" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2015/2005/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2015/2005/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2015/2005/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2015/2005/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/supersedes" href="http://www.legislation.gov.uk/id/ukdsi/2015/9780111140079" title="The Civil Legal Aid (Merits Criteria and Information about Financial Resources) (Amendment) Regulations 2015"/>
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="regulation"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="2005"/><ukm:Made Date="2015-12-09"/><ukm:ISBN Value="9780111141854"/></ukm:SecondaryMetadata>
+					<ukm:Supersedes URI="http://www.legislation.gov.uk/id/ukdsi/2015/9780111140079"><dc:title>The Civil Legal Aid (Merits Criteria and Information about Financial Resources) (Amendment) Regulations 2015</dc:title><ukm:DocumentMainType Value="UnitedKingdomDraftStatutoryInstrument"/><ukm:Year Value="2015"/><ukm:ISBN Value="9780111140079"/></ukm:Supersedes>
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2015/2005/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/2005/pdfs/uksiem_20152005_en.pdf" Date="2015-12-14" Title="UK Explanatory Memorandum" Size="46467"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/2005/pdfs/uksi_20152005_en.pdf" Date="2015-12-14" Size="38756"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="3"/>
+									<ukm:BodyParagraphs Value="3"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Civil Legal Aid (Merits Criteria and Information about Financial Resources) (Amendment) Regulations 2015</ContentsTitle>
+
+<ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2005/regulation/1" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2005/regulation/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation and commencement</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2005/regulation/2" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2005/regulation/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Amendments to the Civil Legal Aid (Merits Criteria) Regulations 2013</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-3" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2005/regulation/3" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2005/regulation/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Amendment to the Legal Aid (Information about Financial Resources) Regulations 2013</ContentsTitle></ContentsItem>
+
+
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2015/2005/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2005/introduction">
+<Number>2015 No. 2005</Number>
+<SubjectInformation>
+<Subject>
+<Title>Legal Aid And Advice, England And Wales</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Civil Legal Aid (Merits Criteria and Information about Financial Resources) (Amendment) Regulations 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>9th December 2015</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into force in accordance with regulation 1</Text></ComingIntoForce>
+<SecondaryPreamble>
+<IntroductoryText>
+<P>
+<Text>The Lord Chancellor, in exercise of the powers conferred by sections 11(1)(b), 22(3)(f) and 41(1)(a) and (b) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012<FootnoteRef Ref="f00001"/> (“the Act”), makes the following Regulations.</Text></P>
+<P>
+<Text>In making these Regulations, in accordance with section 11(2) to (5) of the Act, the Lord Chancellor—</Text><P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>has considered the circumstances in which it is appropriate to make civil legal services available under Part 1 of the Act and, in particular, the extent to which the criteria ought to reflect the factors set out in section 11(3) of the Act;</Text>
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>has sought to secure that, in cases in which more than one form of civil legal service could be provided for an individual, the individual qualifies under Part 1 of the Act for the form of service which in all the circumstances is most appropriate having regard to the criteria, and</Text>
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>is satisfied that the criteria reflect the principle that, in many disputes, mediation and other forms of dispute resolution are more appropriate than legal proceedings.</Text>
+</P3para></P3>
+</P>
+</IntroductoryText>
+<EnactingText>
+<Para>
+<Text>A draft of this instrument has been laid before Parliament and approved by resolution of each House of Parliament in accordance with section 41(6) of the Act.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2012/10" id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="2012" Number="0010">2012 c. 10</Citation>. Section 42(1) provides that in Part 1 of that Act, “regulations” mean regulations made by the Lord Chancellor and “prescribed” means prescribed by regulations (except in Schedule 6 to that Act).</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

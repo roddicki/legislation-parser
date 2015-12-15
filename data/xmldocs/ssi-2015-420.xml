@@ -1,0 +1,94 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ssi/2015/420/made" IdURI="http://www.legislation.gov.uk/id/ssi/2015/420" NumberOfProvisions="3" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/ssi/2015/420"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/ssi/2015/420/contents/made</dc:identifier><dc:title>The Public Service Vehicles (Registration of Local Services) (Scotland) Amendment Regulations 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer for Scotland</dc:publisher><dc:modified>2015-12-10</dc:modified><dc:subject scheme="SIheading">PUBLIC PASSENGER TRANSPORT</dc:subject>
+					<dc:description>These Regulations amend the Public Service Vehicles (Registration of Local Services) (Scotland) Regulations 2001 (“the principal Regulations”).</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/ssi/2015/420/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ssi/2015/420/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/policy-note" href="http://www.legislation.gov.uk/id/ssi/2015/420/policy-note" title="Policy Note"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/policy-note/toc" href="http://www.legislation.gov.uk/ssi/2015/420/policy-note/contents" title="Policy Note Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ssi/2015/420/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ssi/2015/420/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/ssi/2015/420/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/ssi/2015/420/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ssi/2015/420/body/made" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/ssi/2015/420/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/ssi/2015/420/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/ssi/2015/420/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/ssi/2015/420/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="regulation"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="420"/><ukm:Made Date="2015-12-09"/><ukm:Laid Date="2015-12-11" Class="ScottishParliament"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2016-01-31"/></ukm:ComingIntoForce><ukm:ISBN Value="9780111030202"/></ukm:SecondaryMetadata>
+					
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/ssi/2015/420/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/ssi/2015/420/pdfs/ssipn_20150420_en.pdf" Date="2015-12-11" Title="Policy Note" Size="23160"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/ssi/2015/420/pdfs/ssi_20150420_en.pdf" Date="2015-12-11" Size="36912"/></ukm:Alternatives>
+					<ukm:ImpactAssessments>
+									<ukm:ImpactAssessment URI="http://www.legislation.gov.uk/ssi/2015/420/pdfs/ssifia_20150420_en.pdf" Stage="Final" Title="Final Impact Assessment" Year="2015" Number="ssifia20150420en" Size="56353" Date="2015-12-11"/>
+									
+								</ukm:ImpactAssessments>
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="3"/>
+									<ukm:BodyParagraphs Value="3"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Public Service Vehicles (Registration of Local Services) (Scotland) Amendment Regulations 2015</ContentsTitle>
+
+<ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/ssi/2015/420/regulation/1" DocumentURI="http://www.legislation.gov.uk/ssi/2015/420/regulation/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation, commencement and interpretation</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/ssi/2015/420/regulation/2" DocumentURI="http://www.legislation.gov.uk/ssi/2015/420/regulation/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Amendment of the principal Regulations</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-3" IdURI="http://www.legislation.gov.uk/id/ssi/2015/420/regulation/3" DocumentURI="http://www.legislation.gov.uk/ssi/2015/420/regulation/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Application of regulation 2(4)</ContentsTitle></ContentsItem>
+
+
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/ssi/2015/420/introduction/made" IdURI="http://www.legislation.gov.uk/id/ssi/2015/420/introduction">
+<Number>2015 No. 420</Number>
+<SubjectInformation>
+<Subject>
+<Title>Public Passenger Transport</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Public Service Vehicles (Registration of Local Services) (Scotland) Amendment Regulations 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>9th December 2015</DateText>
+</MadeDate>
+<LaidDate>
+<Text>Laid before the Scottish Parliament</Text>
+<DateText>11th December 2015</DateText>
+</LaidDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>31st January 2016</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<IntroductoryText>
+<P>
+<Text>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 6(2)(a), (3)(a), (8)(a) and (9) of the Transport Act 1985<FootnoteRef Ref="f00001"/> and by section 60(1), (1A) and (2) of the Public Passenger Vehicles Act 1981<FootnoteRef Ref="f00002"/> and all other powers enabling them to do so.</Text></P>
+</IntroductoryText>
+<EnactingText>
+<Para>
+<Text>In accordance with section 61(2) of the Public Passenger Vehicles Act 1981<FootnoteRef Ref="f00003"/>, they have consulted with such representative organisations as they think fit.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1985/67" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1985" Number="0067">1985 c.67</Citation>. Section 6 was amended by the Transport (Scotland) Act <Citation URI="http://www.legislation.gov.uk/id/asp/2001/2" id="c00002" Class="ScottishAct" Year="2001" Number="0002">2001 (asp 2)</Citation>, section 46. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1998/46" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0046">1998 (c.46)</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1981/14" id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1981" Number="0014">1981 c.14</Citation>. Section 134 of the Transport Act 1985 (“the 1985 Act”) provides that section 60 of the Public Passenger Vehicles Act 1981 (“the 1981 Act”) shall have effect as if Parts I and <Acronym Expansion="2">II</Acronym> of the 1985 Act were contained in the 1981 Act. See section 60(2) of the 1981 Act for definitions of “prescribed” and “regulations”. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1998/46" id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0046">1998 (c.46)</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00003">
+<FootnoteText>
+<Para><Text>Section 135 of the 1985 Act provides that section 61 of the 1981 Act shall have effect as if Parts I and II of the 1985 Act were contained in that Act. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1998/46" id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0046">1998 (c.46)</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

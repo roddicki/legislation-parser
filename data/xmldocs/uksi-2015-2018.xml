@@ -1,0 +1,75 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2018/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2018" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2015/2018"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2015/2018/contents/made</dc:identifier><dc:title>The National Health Service (Licensing and Pricing) (Amendment) Regulations 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2015-12-11</dc:modified><dc:subject scheme="SIheading">NATIONAL HEALTH SERVICE, ENGLAND</dc:subject>
+					<dc:description>These Regulations amend Regulations 5 and 6 of the National Health Service (Licensing and Pricing) Regulations 2013 (“the 2013 Regulations”). (Regulation 5 of the 2013 Regulations prescribes the “objection percentage” and the “share of supply percentage” for the purposes of section 120(2) of the Health and Social Care Act 2012 (responses to consultation) (“the Act”). Regulation 6 of the 2013 Regulations prescribes the description of relevant provider for the purposes of section 118(14)(b) of the Act (consultation on proposals for the national tariff), which description is also relied on in sections 120 and 121 to, and Schedule 12 of, the Act, by virtue of section 120(7).)</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2015/2018/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2015/2018/resources" title="More Resources"/>
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2015/2018/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2015/2018/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2015/2018/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2015/2018/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2015/2018/body/made" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2015/2018/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2015/2018/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2015/2018/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2015/2018/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/supersedes" href="http://www.legislation.gov.uk/id/ukdsi/2015/9780111140383" title="The National Health Service (Licensing and Pricing) (Amendment) Regulations 2015"/>
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="regulation"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="2018"/><ukm:Made Date="2015-12-10"/><ukm:ISBN Value="9780111141960"/></ukm:SecondaryMetadata>
+					<ukm:Supersedes URI="http://www.legislation.gov.uk/id/ukdsi/2015/9780111140383"><dc:title>The National Health Service (Licensing and Pricing) (Amendment) Regulations 2015</dc:title><ukm:DocumentMainType Value="UnitedKingdomDraftStatutoryInstrument"/><ukm:Year Value="2015"/><ukm:ISBN Value="9780111140383"/></ukm:Supersedes>
+					
+									
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/2018/pdfs/uksi_20152018_en.pdf" Date="2015-12-14" Size="32591"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="2"/>
+									<ukm:BodyParagraphs Value="2"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The National Health Service (Licensing and Pricing) (Amendment) Regulations 2015</ContentsTitle>
+
+<ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2018/regulation/1" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2018/regulation/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation and commencement</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2018/regulation/2" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2018/regulation/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Amendment of the National Health Service (Licensing and Pricing) Regulations 2013</ContentsTitle></ContentsItem>
+
+
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2015/2018/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2018/introduction">
+<Number>2015 No. 2018</Number>
+<SubjectInformation>
+<Subject>
+<Title>National Health Service, England</Title>
+</Subject>
+</SubjectInformation>
+<Title>The National Health Service (Licensing and Pricing) (Amendment) Regulations 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>10th December 2015</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into force in accordance with regulation 1</Text></ComingIntoForce>
+<SecondaryPreamble>
+<IntroductoryText>
+<P>
+<Text>The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 118(14)(b), 120(2), 120(6), 150(1) and 304(9) and (10) of the Health and Social Care Act 2012<FootnoteRef Ref="f00001"/>.</Text></P>
+</IntroductoryText>
+<EnactingText>
+<Para>
+<Text>A draft of these Regulations was laid before Parliament in accordance with section 304(5)(g) of the Health and Social Care Act 2012, and was approved by resolution of each House of Parliament.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2012/7" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="2012" Number="0007">2012 c. 7</Citation>. <Emphasis>See</Emphasis> section 150(1) of the Health and Social Care Act 2012 for the meaning of “prescribed”.</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

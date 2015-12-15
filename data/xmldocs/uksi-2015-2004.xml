@@ -1,0 +1,105 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2004/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2004" NumberOfProvisions="4" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2015/2004"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2015/2004/contents/made</dc:identifier><dc:title>The Road Traffic Offenders Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2015-12-10</dc:modified><dc:subject scheme="SIheading">ROAD TRAFFIC</dc:subject>
+					<dc:description>These Regulations make further provision to implement Directive 2006/126/EC of the European Parliament and of the Council of 20 December 2006 on driving licences. They amend the Road Traffic Offenders Act 1988 (“RTOA”) and the Motor Vehicles (Driving Licences) Regulations 1999 (“the 1999 Regulations”).</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2015/2004/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2015/2004/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/id/uksi/2015/2004/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2015/2004/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2015/2004/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2015/2004/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2015/2004/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2015/2004/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2015/2004/body/made" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2015/2004/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2015/2004/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2015/2004/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2015/2004/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="regulation"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="2004"/><ukm:Made Date="2015-12-07"/><ukm:Laid Date="2015-12-11" Class="UnitedKingdomParliament"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2016-01-04"/></ukm:ComingIntoForce><ukm:ISBN Value="9780111141847"/></ukm:SecondaryMetadata>
+					
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2015/2004/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/2004/pdfs/uksiem_20152004_en.pdf" Date="2015-12-14" Title="UK Explanatory Memorandum" Size="40493"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/2004/pdfs/uksi_20152004_en.pdf" Date="2015-12-11" Size="40936"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="4"/>
+									<ukm:BodyParagraphs Value="4"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Road Traffic Offenders Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2015</ContentsTitle>
+
+<ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2004/regulation/1" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2004/regulation/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation and commencement</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2004/regulation/2" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2004/regulation/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Amendment of the Road Traffic Offenders Act 1988</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-3" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2004/regulation/3" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2004/regulation/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Amendment of the Motor Vehicles (Driving Licences) Regulations 1999</ContentsTitle></ContentsItem>
+
+
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2015/2004/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2004/introduction">
+<Number>2015 No. 2004</Number>
+<SubjectInformation>
+<Subject>
+<Title>Road Traffic</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Road Traffic Offenders Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>7th December 2015</DateText>
+</MadeDate>
+<LaidDate>
+<Text>Laid before Parliament</Text>
+<DateText>11th December 2015</DateText>
+</LaidDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>4th January 2016</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<IntroductoryText>
+<P>
+<Text>The Secretary of State, in exercise of the powers conferred by sections 89(3)(a)<FootnoteRef Ref="f00001"/>, 89(3)(ba)<FootnoteRef Ref="f00002"/>, 105(1), 105(2)(a)<FootnoteRef Ref="f00003"/> and 105(3) of the Road Traffic Act 1988 and section 2(2) of the European Communities Act 1972<FootnoteRef Ref="f00004"/>, makes the following Regulations.</Text></P>
+<P>
+<Text>The Secretary of State is a Minister designated for the purpose of section 2(2) of the European Communities Act 1972 in relation to the licensing of drivers<FootnoteRef Ref="f00005"/>.</Text></P>
+</IntroductoryText>
+<EnactingText>
+<Para>
+<Text>The Secretary of State has consulted with relevant organisations as required by section 195(2)<FootnoteRef Ref="f00006"/> of the Road Traffic Act 1988.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/52" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0052">1988 c. 52</Citation>. Section 89(3)(a) was amended by section 48 and Schedule 4, paragraph 63, of the Road Traffic Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1991/40" id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1991" Number="0040">1991 (c.40)</Citation> and sections 36(1) and 2(a) of the Road Safety Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/49" id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0049">2006 (c.49)</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para><Text>Section 89(3)(ba) of the Road Traffic Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/52" id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0052">1988 (c.52)</Citation> was inserted by section 36(1) and (2)(c) of the Road Safety Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/49" id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0049">2006 (c. 49)</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00003">
+<FootnoteText>
+<Para><Text>Section 105(2)(a) of the Road Traffic Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/52" id="c00008" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0052">1988 (c.52)</Citation> was substituted by <Citation URI="http://www.legislation.gov.uk/id/uksi/1996/1974" id="c00009" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="1974">S.I. 1996/1974</Citation> and amended by section 91(1) and Schedule 5, paragraphs 17 and 23(a)(i), of the Crime (International Co-operation)(Act) <Citation URI="http://www.legislation.gov.uk/id/ukpga/2003/32" id="c00010" Class="UnitedKingdomPublicGeneralAct" Year="2003" Number="0032">2003 (c.32)</Citation> and section 10(12) and Schedule 3, paragraphs 13(1), and (2)(a), of the Road Safety Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/49" id="c00011" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0049">2006 (c.49)</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00004">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1972/68" id="c00012" Class="UnitedKingdomPublicGeneralAct" Year="1972" Number="0068">1972 c. 68</Citation>. Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/51" id="c00013" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0051">2006 (c.51)</Citation>, and section 3(3) and Schedule 1, Part 1, of the European Union (Amendment) Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2008/7" id="c00014" Class="UnitedKingdomPublicGeneralAct" Year="2008" Number="0007">2008 (c.7)</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00005">
+<FootnoteText>
+<Para><Text>The European Communities (Designation) (No.4) Order 2002 (<Citation URI="http://www.legislation.gov.uk/id/uksi/2002/2840" id="c00015" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="2840">S.I. 2002/2840</Citation>).</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00006">
+<FootnoteText>
+<Para><Text>Section 195(2) of the Road Traffic Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/52" id="c00016" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0052">1988 (c.52)</Citation> has been amended by sections 42 and 59, Schedule 6, paragraphs 1 and 30 and Schedule 7 of the Road Safety Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/49" id="c00017" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0049">2006 (c.49)</Citation>, but those amendments have not yet been brought into force.</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

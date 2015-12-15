@@ -25,27 +25,33 @@
 #   Controller of HMSO and the Queen's Printer for Scotland.
 
 # Dependencies 
-import logging, pprint, urllib, os.path
+import logging, pprint, urllib, os.path, sqlite3
 import xml.etree.ElementTree as ET
+from databasebuilder import DatabaseBuilder
 #from datetime i
 
 # Setup logging: CRITICAL | ERROR | WARNING | INFO | DEBUG
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def run():
+  
     # Object to parse legislation data
     legi = LegislationParser()
-    #legi.makehistory()
+    # legi.makehistory() # Saves rss feeds of all legislation created since 1200
+
     # Download and grab the latest legislation
     legi.grablatest()
-     # All finished
+    
+    # All finished
     logging.info('Finished')
 
 # Class to grab legislation rss feed
 class LegislationParser:
 
     # Initialise the object
-    def __init__(self):       
+    def __init__(self):
+        # Inititalise the database structure
+        self.initdatabase()
         # Return a full list of legislation via:
         #    www.legislation.gov.uk/1110-2016/data.feed?page=5063
         # Where page 5063 is the final page in the list
@@ -61,7 +67,7 @@ class LegislationParser:
             'apgb' : {'type':'primary', 'description':'1800 or older'}, 
             'aep'  : {'type':'primary', 'description':'All very old 1600 or older'},
             'aosp' : {'type':'primary', 'description':'Acts of the Old Scottish Parliament (1424-1707)'},
-            'aosp' : {'type':'primary', 'description':'Acts of the Old Scottish Parliament (1424-1707)'},
+            'asp' : {'type':'primary', 'description':'Acts of the new Scottish Parliament'},
             'mnia' : {'type':'primary', 'description':'Measures of the Northern Ireland Assembly (1974)'},
             'nia'  : {'type':'primary', 'description':'Acts of the Northern Ireland Assembly 2015-200'},
             'ukcm' : {'type':'primary', 'description':'UK Church Measures'},
@@ -81,11 +87,86 @@ class LegislationParser:
             'wdsi' : {'type':'draft', 'description':'Welsh Draft Statutory Instruments. (nothing available)'}
         }
     
+    def initdatabase(self):
+        # Create a database structure to store info in
+        dbstruct = {
+            'legislation':{
+                # Core metadata
+                'id':'TEXT PRIMARY KEY',
+                'type':'TEXT',
+                'title':'TEXT',  
+                'number':'INTEGER',
+                'url':'TEXT unique',
+                'filename':'TEXT unique',
+                # Published
+                'rss_published_year':'INTEGER',                
+                'rss_published_month':'INTEGER',
+                'rss_published_day':'INTEGER', 
+                # Updated
+                'rss_updated_year':'INTEGER',                
+                'rss_updated_month':'INTEGER',
+                'rss_updated_day':'INTEGER',
+                # Enacted
+                'doc_enacted_year':'INTEGER',                
+                'doc_enacted_month':'INTEGER',
+                'doc_enacted_day':'INTEGER',
+                # Created
+                'doc_created_year':'INTEGER',                
+                'doc_created_month':'INTEGER',
+                'doc_created_day':'INTEGER',
+                # Made
+                'doc_made_year':'INTEGER',                
+                'doc_made_month':'INTEGER',
+                'doc_made_day':'INTEGER',
+                # Laid
+                'doc_laid_year':'INTEGER',                
+                'doc_laid_month':'INTEGER',
+                'doc_laid_day':'INTEGER'
+            }
+        }
+        # Initialise the database and build it if it doesn't exist
+        databasefile = "data/db.sqlite3"
+        builder = DatabaseBuilder(databasefile, dbstruct)
+        logging.info(builder.msg)  
+        # Connect to the database
+        self.db = sqlite3.connect(databasefile)
+        self.cursor = self.db.cursor()
+
+    def dbsaveRSSentry(self, entry):
+        values = {
+            # Core metadata
+            'id':entry['id'],
+            'type':entry['type'],
+            'title':entry['title'],  
+            'number':entry['Number'],
+            'url':entry['url'],
+            'filename':entry['filename'],
+            # Published
+            'rss_published_year':entry['published'],                
+            'rss_published_month':,
+            'rss_published_day':'INTEGER', 
+            # Updated
+            'rss_updated_year':'INTEGER',                
+            'rss_updated_month':'INTEGER',
+            'rss_updated_day':'INTEGER' 
+        }
+        keys = names = c = ''
+        for key in values:
+            keys = keys+c+':'+key
+            names = names+c+key
+            c = ', '
+        qry = "INSERT OR IGNORE INTO legislation("+names+") VALUES ("+keys+")"
+        logging.info(qry)
+        self.cursor.execute(qry, values)
+
     # Download the list of latest legislation
     def grablatest(self):
+        # TODO: Error check if we have internet connection
+        # TODO: Make all file downloads a single function
         # First download the latest feed
         filepath = 'data/latest.feed'
-        f = urllib.urlopen('http://www.legislation.gov.uk/new/data.feed')
+        url = 'http://www.legislation.gov.uk/new/data.feed'
+        f = urllib.urlopen(url)
         if f.code == 200:
             content = f.read()
             # Save the content to a file for speedy access later
@@ -93,20 +174,23 @@ class LegislationParser:
             self.writeoutput(filepath, content)
         else:
             logging.warning('Problem with the download. Error code:'+f.code+ ' For: '+url)
-        # Now parse the Atom RSS feed
-        entries = legi.parsefeed(filepath)
+        logging.info('Parsed latest RSS feed')
+        # Parse the RSS feed and return a list of entries
+        entries = self.parsefeed(filepath)
+        # Loop through the entries and download the referenced documents
+        self.downloaddocs(entries)
+
+    # Parse an Atom RSS feed, save entry data, download the documents
+    def downloaddocs(self, entries):
         # Then grab document data
         for entry in entries:
-            # Load the content from a url or local file 
-            # (checks if we have already downloaded this URL)
-            filename = entry['filename']
-            content = legi.loadlegislation(entry)
-            # Parse the document data
-            data = legi.parsedoc(content, filename)
-            # Save to the database
-         logging.info('Parsed latest RSS feed')
+            # Save entry data to the database
+            self.dbsaveRSSentry(entry)
+            # Download legislation doc data.xml file and parse its contents 
+            content = self.loadlegislation(entry)
+            data = self.parsedoc(content, entry['filename'])
 
-    # Download a full list of legislative documents
+    # Download a full list of legislative documents as RSS feed
     def makehistory(self):
         inc = 5063
         while inc > 0:
@@ -152,11 +236,14 @@ class LegislationParser:
         # The enacted version of legislation is not generally available for 
         # legislation prior to 1988. 
         data = { 
-            'Year': self.grabxmlattrib(root, path+'Year', 'Value'),
-            'Number': self.grabxmlattrib(root, path+'Number', 'Value'),
-            'Made': self.grabxmlattrib(root, path+'Made', 'Date'),
-            'Laid': self.grabxmlattrib(root, path+'Laid', 'Date'),
-            'ComingIntoForce': self.grabxmlattrib(root, path+'ComingIntoForce/'+ns+'DateTime', 'Date')
+            'Type': None,
+            'Enacted': None, 
+            'Created': None, 
+            'Year': self.grabxmlattrib(root, path, 'Year', 'Value'),
+            'Number': self.grabxmlattrib(root, path, 'Number', 'Value'),
+            'Made': self.grabxmlattrib(root, path, 'Made', 'Date'),
+            'Laid': self.grabxmlattrib(root, path, 'Laid', 'Date'),
+            'ComingIntoForce': self.grabxmlattrib(root, path+'ComingIntoForce/'+ns, 'DateTime', 'Date')
             # TODO: Save statistics
         }
         logging.info(data)
@@ -172,22 +259,22 @@ class LegislationParser:
         data = []
         for entry in root.findall(ns+"entry"):
             # Core data
-            myid = self.grabxmltext(entry, ns+'id')
+            myid = self.grabxmltext(entry, ns, 'id')
             logging.info("Found doc: "+myid)
             entry = {
                 # Text info
                 'id': myid,
-                'title': self.grabxmltext(entry, ns+'title'),
-                'published': self.grabxmltext(entry, ns+'published'),
-                'updated': self.grabxmltext(entry, ns+'updated'),  
-                'author': self.grabxmltext(entry, ns+'author'),  
-                'summary': self.grabxmltext(entry, ns+'summary'),  
+                'title': self.grabxmltext(entry, ns, 'title'),
+                'published': self.grabxmltext(entry, ns, 'published'),
+                'updated': self.grabxmltext(entry, ns, 'updated'),  
+                'author': self.grabxmltext(entry, ns, 'author'),  
+                'summary': self.grabxmltext(entry, ns, 'summary'),  
                 # Metadata
-                'category': self.grabxmlattrib(entry, ns+'category', 'term'),
-                'DocumentMainType': self.grabxmlattrib(entry, mns+'DocumentMainType' , 'Value'),    
-                'Number': self.grabxmlattrib(entry, mns+'Number', 'Value'),    
-                'ISBN': self.grabxmlattrib(entry, mns+'ISBN', 'Value'),    
-                'Year': self.grabxmlattrib(entry, mns+'Year', 'Value'), 
+                'category': self.grabxmlattrib(entry, ns, 'category', 'term'),
+                'DocumentMainType': self.grabxmlattrib(entry, mns, 'DocumentMainType' , 'Value'),    
+                'Number': self.grabxmlattrib(entry, mns, 'Number', 'Value'),    
+                'ISBN': self.grabxmlattrib(entry, mns, 'ISBN', 'Value'),    
+                'Year': self.grabxmlattrib(entry, mns, 'Year', 'Value'), 
                 # My additions
                 'url':myid+'/data.xml' ,
                 'filename': self.genfilename(myid)
@@ -202,19 +289,19 @@ class LegislationParser:
         filename = filename.replace('/','-')
         return 'data/xmldocs/'+filename+'.xml'
 
-    def grabxmltext(self, element, ref):
+    def grabxmltext(self, element, path, ref):
         try:
-            op = element.find(ref).text 
+            op = element.find(path+ref).text 
         except:
             logging.warning('Cannot find text:'+ref)   
             op = None;
         return op
 
-    def grabxmlattrib(self, element, ref, attribute):
+    def grabxmlattrib(self, element, path, ref, attribute):
         try:
-            op = element.find(ref).attrib[attribute]   
+            op = element.find(path+ref).attrib[attribute]   
         except (AttributeError, TypeError): 
-            logging.warning('Cannot find attribute: '+attribute)
+            logging.warning('Cannot find attribute: '+attribute+' For: '+ref)
             op = None
         return op
     

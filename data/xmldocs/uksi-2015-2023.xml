@@ -1,0 +1,79 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2023/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2023" NumberOfProvisions="4" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2015/2023"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2015/2023/contents/made</dc:identifier><dc:title>The Specified Diseases (Notification) (Amendment) (England) Order 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2015-12-14</dc:modified><dc:subject scheme="SIheading">ANIMALS, ENGLAND;ANIMAL HEALTH</dc:subject>
+					<dc:description>This Order amends the Specified Diseases (Notification) Order 1996 (S.I. 1996/2628) in England by adding porcine epidemic diarrhoea to the list of animal diseases in Part 1 of Schedule 1 so that suspicion of the infection of porcine epidemic diarrhoea in pigs must be notified to the Secretary of State by the keeper of the pigs.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2015/2023/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2015/2023/resources" title="More Resources"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/impacts" href="http://www.legislation.gov.uk/uksi/2015/2023/impacts" title="Impact Assessments"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/id/uksi/2015/2023/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2015/2023/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2015/2023/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2015/2023/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2015/2023/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2015/2023/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2015/2023/body/made" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2015/2023/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2015/2023/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2015/2023/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2015/2023/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="2023"/><ukm:Made Date="2015-12-10"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2015-12-18"/></ukm:ComingIntoForce><ukm:ISBN Value="9780111141984"/></ukm:SecondaryMetadata>
+					
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2015/2023/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/2023/pdfs/uksiem_20152023_en.pdf" Date="2015-12-15" Title="UK Explanatory Memorandum" Size="39819"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/2023/pdfs/uksi_20152023_en.pdf" Date="2015-12-15" Size="38139"/></ukm:Alternatives>
+					<ukm:ImpactAssessments>
+									
+									<ukm:ImpactAssessment URI="http://www.legislation.gov.uk/ukia/2015/313/pdfs/ukia_20150313_en.pdf" Date="2015-12-15" Title="The Specified Diseases (Notification) (Amendment) (England) Order 2015" Stage="Final" Department="Department for Environment, Food and Rural Affairs" Year="2015" Number="313" Size="89955"/>
+								</ukm:ImpactAssessments>
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="4"/>
+									<ukm:BodyParagraphs Value="4"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Specified Diseases (Notification) (Amendment) (England) Order 2015</ContentsTitle>
+
+<ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2023/article/1" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2023/article/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation, commencement and application</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2023/article/2" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2023/article/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Amendment to the Specified Diseases (Notification) Order 1996</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-3" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2023/article/3" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2023/article/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Review</ContentsTitle></ContentsItem>
+
+
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2015/2023/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2023/introduction">
+<Number>2015 No. 2023</Number>
+<SubjectInformation>
+<Subject>
+<Title>Animals, England</Title>
+<Subtitle>Animal Health</Subtitle>
+</Subject>
+</SubjectInformation>
+<Title>The Specified Diseases (Notification) (Amendment) (England) Order 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>10th December 2015</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>18th December 2015</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Secretary of State makes this Order in exercise of the powers conferred by sections 1 and 88(2) of the Animal Health Act 1981<FootnoteRef Ref="f00001"/>.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1981/22" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1981" Number="0022">1981 c.22</Citation>. Functions conferred under that Act on “the Ministers” (as defined in section 86) were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 (<Citation URI="http://www.legislation.gov.uk/id/uksi/1999/3141" id="c00003" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="3141">S.I. 1999/3141</Citation>), article 2 and the Schedule, and were then further transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (<Citation URI="http://www.legislation.gov.uk/id/uksi/2002/794" id="c00004" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="0794">S.I. 2002/794</Citation>), article 2.</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

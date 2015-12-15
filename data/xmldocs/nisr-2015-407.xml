@@ -1,0 +1,82 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/nisr/2015/407/made" IdURI="http://www.legislation.gov.uk/id/nisr/2015/407" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/nisr/2015/407"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/nisr/2015/407/contents/made</dc:identifier><dc:title>The Disabled Persons (Badges for Motor Vehicles) (Amendment) Regulations (Northern Ireland) 2015</dc:title><dc:language>en</dc:language><dc:publisher>Government Printer for Northern Ireland</dc:publisher><dc:modified>2015-12-15</dc:modified><dc:subject scheme="SIheading">ROAD TRAFFIC AND VEHICLES</dc:subject>
+					<dc:description>These Regulations further amend the Disabled Persons (Badges for Motor Vehicles) Regulations (Northern Ireland) 1993.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/nisr/2015/407/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/nisr/2015/407/resources" title="More Resources"/>
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/nisr/2015/407/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/nisr/2015/407/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/nisr/2015/407/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/nisr/2015/407/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/nisr/2015/407/body/made" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/nisr/2015/407/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/nisr/2015/407/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/nisr/2015/407/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/nisr/2015/407/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="NorthernIrelandStatutoryRule"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="regulation"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="407"/><ukm:Made Date="2015-12-10"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2016-02-17"/></ukm:ComingIntoForce><ukm:ISBN Value="9780337999260"/></ukm:SecondaryMetadata>
+					
+					
+									
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/nisr/2015/407/pdfs/nisr_20150407_en.pdf" Date="2015-12-15" Size="102706"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="2"/>
+									<ukm:BodyParagraphs Value="2"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Disabled Persons (Badges for Motor Vehicles) (Amendment) Regulations (Northern Ireland) 2015</ContentsTitle>
+
+<ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/nisr/2015/407/regulation/1" DocumentURI="http://www.legislation.gov.uk/nisr/2015/407/regulation/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation and commencement</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/nisr/2015/407/regulation/2" DocumentURI="http://www.legislation.gov.uk/nisr/2015/407/regulation/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Amendments</ContentsTitle></ContentsItem>
+
+
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/nisr/2015/407/introduction/made" IdURI="http://www.legislation.gov.uk/id/nisr/2015/407/introduction">
+<Number>2015 No. 407</Number>
+<SubjectInformation>
+<Subject>
+<Title>Road Traffic And Vehicles</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Disabled Persons (Badges for Motor Vehicles) (Amendment) Regulations (Northern Ireland) 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>10th December 2015</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into operation-</Text>
+<DateText>17th February 2016</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Department for Regional Development<FootnoteRef Ref="f00001"/> makes the following Regulations in exercise of the powers conferred by section 14 of the Chronically Sick and Disabled Persons (Northern Ireland) Act 1978<FootnoteRef Ref="f00002"/> and now vested in it<FootnoteRef Ref="f00003"/>.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/nisi/1999/283" id="c00001" Class="NorthernIrelandOrderInCouncil" Year="1999" Number="0283" AlternativeNumber="N.I 1">S.I. 1999/283 (N.I. 1)</Citation> Article 3(1)</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1978/53" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1978" Number="0053">1978 c. 53</Citation> as amended by <Citation URI="http://www.legislation.gov.uk/id/nisi/1981/154" id="c00003" Class="NorthernIrelandOrderInCouncil" Year="1981" Number="0154" AlternativeNumber="N.I 1">S.I. 1981/154 (N.I. 1)</Citation> <Abbreviation Expansion="Schedule">Sch.</Abbreviation> 7, para. 21; <Citation URI="http://www.legislation.gov.uk/id/nisi/1997/276" id="c00004" Class="NorthernIrelandOrderInCouncil" Year="1997" Number="0276" AlternativeNumber="N.I 2">S.I. 1997/276 (N.I. 2)</Citation> Article 55, Sch. 8, para. 3 and Sch. 9 and <Citation URI="http://www.legislation.gov.uk/id/nisi/2005/1964" id="c00005" Class="NorthernIrelandOrderInCouncil" Year="2005" Number="1964" AlternativeNumber="N.I 14">S.I. 2005/1964 (N.I. 14)</Citation> Articles 32, 33 and 34</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00003">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/nisr/1999/481" id="c00006" Class="NorthernIrelandStatutoryRule" Year="1999" Number="0481">S.R. 1999 No. 481</Citation> Article 6(<Emphasis>d</Emphasis>) and Schedule 4 Part IV</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

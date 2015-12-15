@@ -1,0 +1,78 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2003/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2003" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2015/2003"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2015/2003/contents/made</dc:identifier><dc:title>The Port of London Authority (Constitution) Harbour Revision Order 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2015-12-09</dc:modified><dc:subject scheme="SIheading">HARBOURS, DOCKS, PIERS AND FERRIES</dc:subject>
+					<dc:description>This Order amends the Port of London Act 1968 (c.xxxii) (“the Act”).</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2015/2003/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2015/2003/resources" title="More Resources"/>
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2015/2003/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2015/2003/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2015/2003/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2015/2003/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2015/2003/body/made" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2015/2003/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2015/2003/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2015/2003/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2015/2003/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="2003"/><ukm:Made Date="2015-12-09"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2015-12-31"/></ukm:ComingIntoForce><ukm:ISBN Value="9780111141830"/></ukm:SecondaryMetadata>
+					
+					
+									
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/2003/pdfs/uksi_20152003_en.pdf" Date="2015-12-14" Size="30021"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="2"/>
+									<ukm:BodyParagraphs Value="2"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Port of London Authority (Constitution) Harbour Revision Order 2015</ContentsTitle>
+
+<ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2003/article/1" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2003/article/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation and Commencement</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2003/article/2" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2003/article/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Amendment of the Port of London Act 1968</ContentsTitle></ContentsItem>
+
+
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2015/2003/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2003/introduction">
+<Number>2015 No. 2003</Number>
+<SubjectInformation>
+<Subject>
+<Title>Harbours, Docks, Piers And Ferries</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Port of London Authority (Constitution) Harbour Revision Order 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>9th December 2015</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>31st December 2015</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<IntroductoryText>
+<P>
+<Text>The Secretary of State is satisfied that a harbour revision order ought to be made for the purpose of achieving, in relation to the Port of London Authority, the objects mentioned in section 15(1) of the Harbours Act 1964 (“the Act”)<FootnoteRef Ref="f00001"/>.</Text></P>
+</IntroductoryText>
+<EnactingText>
+<Para>
+<Text>The Secretary of State, being the appropriate minister under section 15(3) of the Act and being satisfied as mentioned in section 14(2)(b) of the Act, makes the following Order in exercise of the powers conferred by section 15(1) of that Act.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1964/40" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1964" Number="0040">1964 c.40</Citation>. Section 15 of the Act was amended by section 40 of and Part 2 of Schedule 12 to the Transport Act 1981(c.56).</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

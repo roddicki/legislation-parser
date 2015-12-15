@@ -1,0 +1,29 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/nisr/2015/409/made" IdURI="http://www.legislation.gov.uk/id/nisr/2015/409" NumberOfProvisions="0" SchemaVersion="1.0" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/nisr/2015/409/made</dc:identifier><dc:title>The Control of Traffic (Alfred Street/Upper Arthur Street, Belfast) Order (Northern Ireland) 2015</dc:title><dc:publisher>Government Printer for Northern Ireland</dc:publisher><dc:modified>2015-12-15</dc:modified>
+					
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/nisr/2015/409/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/nisr/2015/409/resources" title="More Resources"/>
+					
+					
+					
+					
+					
+					
+					<atom:link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/nisr/2015/409/made/data.rdf" title="RDF/XML"/><atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/nisr/2015/409/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/nisr/2015/409/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/nisr/2015/409/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/nisr/2015/409/made/data.html" title="HTML5 snippet"/>
+
+					<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/nisr/2015/409/pdfs/nisr_20150409_en.pdf" title="Original PDF"/>
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification><ukm:DocumentCategory Value="secondary"/><ukm:DocumentMainType Value="NorthernIrelandStatutoryRule"/><ukm:DocumentStatus Value="final"/></ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="409"/></ukm:SecondaryMetadata>
+					
+					
+									
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/nisr/2015/409/pdfs/nisr_20150409_en.pdf" Date="2015-12-15" Size="93302"/></ukm:Alternatives>
+					
+					
+					
+				</ukm:Metadata></Legislation>

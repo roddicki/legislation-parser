@@ -1,0 +1,29 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/wsi/2015/2016/made" IdURI="http://www.legislation.gov.uk/id/wsi/2015/2016" NumberOfProvisions="0" SchemaVersion="1.0" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/wsi/2015/2016/made</dc:identifier><dc:title>The Swansea to Manchester Trunk Road (A483) and the Newtown to Aberystwyth Trunk Road (A489) (Newtown Bypass and De-Trunking) Order 2015</dc:title><dc:title xml:lang="cy">Gorchymyn Cefnffordd Abertawe i Fanceinion (Yr A483) a Chefnffordd y Drenewydd i Aberystwyth (Yr A489) (Ffordd Osgoi’r Drenewydd a Thynnu Statws Cefnffordd) 2015</dc:title><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2015-12-15</dc:modified>
+					
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/wsi/2015/2016/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/wsi/2015/2016/resources" title="More Resources"/>
+					
+					
+					
+					
+					
+					<atom:link rel="alternate" hreflang="cy" href="http://www.legislation.gov.uk/wsi/2015/2016/made/welsh"/><atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="cy" href="http://www.legislation.gov.uk/wsi/2015/2016/contents/made/welsh" title="Table of Contents"/>
+					<atom:link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/wsi/2015/2016/made/data.rdf" title="RDF/XML"/><atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/wsi/2015/2016/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/wsi/2015/2016/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/wsi/2015/2016/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/wsi/2015/2016/made/data.html" title="HTML5 snippet"/>
+
+					<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/wsi/2015/2016/pdfs/wsi_20152016_we.pdf" title="Original PDF"/><atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/wsi/2015/2016/pdfs/wsi_20152016_en.pdf" title="Original PDF"/>
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification><ukm:DocumentCategory Value="secondary"/><ukm:DocumentMainType Value="WelshStatutoryInstrument"/><ukm:DocumentStatus Value="final"/></ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="2016"/></ukm:SecondaryMetadata>
+					
+					
+									
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/wsi/2015/2016/pdfs/wsi_20152016_we.pdf" Date="2015-12-15" Size="96727" Language="Welsh"/><ukm:Alternative URI="http://www.legislation.gov.uk/wsi/2015/2016/pdfs/wsi_20152016_en.pdf" Date="2015-12-15" Size="197925"/></ukm:Alternatives>
+					
+					
+					
+				</ukm:Metadata></Legislation>

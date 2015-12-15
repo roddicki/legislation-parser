@@ -1,0 +1,118 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985" NumberOfProvisions="57" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2015/1985"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2015/1985/contents/made</dc:identifier><dc:title>The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2015-12-09</dc:modified><dc:subject scheme="SIheading">SOCIAL SECURITY</dc:subject>
+					<dc:description>This Order makes consequential, supplementary and incidental amendments in relation to the provisions of Part 1 of the Pensions Act 2014 (c.19) (“the 2014 Act”), which creates a new state pension for people reaching pensionable age on or after 6th April 2016.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2015/1985/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2015/1985/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/id/uksi/2015/1985/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2015/1985/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2015/1985/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2015/1985/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2015/1985/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2015/1985/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2015/1985/body/made" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2015/1985/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2015/1985/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2015/1985/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2015/1985/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="1985"/><ukm:Made Date="2015-12-07"/><ukm:Laid Date="2015-12-11" Class="UnitedKingdomParliament"/><ukm:ISBN Value="9780111141731"/></ukm:SecondaryMetadata>
+					
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/1985/pdfs/uksiem_20151985_en.pdf" Date="2015-12-11" Title="UK Explanatory Memorandum" Size="97640"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/1985/pdfs/uksi_20151985_en.pdf" Date="2015-12-11" Size="168305"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="57"/>
+									<ukm:BodyParagraphs Value="57"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015</ContentsTitle>
+
+<ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/1" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation and commencement</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/2" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Amendment of the Social Security (Credits) Regulations 1975</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-3" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/3" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Amendment of the Social Security Benefit (Persons Abroad) Regulations 1975</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-4" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/4" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/4/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>4</ContentsNumber><ContentsTitle>Amendment of the Social Security (Overlapping Benefits) Regulations 1979</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-5" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/5" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/5/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>5</ContentsNumber><ContentsTitle>Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations 1979</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-6" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/6" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/6/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>6</ContentsNumber><ContentsTitle>Amendment of the Social Security (Earnings Factor) Regulations 1979</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-7" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/7" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/7/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>7</ContentsNumber><ContentsTitle>Amendment of the Social Security (General Benefit) Regulations 1982</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-8" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/8" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/8/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>8</ContentsNumber><ContentsTitle>Amendment of the Income Support (General) Regulations 1987</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-9" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/9" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/9/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>9</ContentsNumber><ContentsTitle>Amendment of the Social Security (Claims and Payments) Regulations 1987</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-10" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/10" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/10/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>10</ContentsNumber><ContentsTitle>Amendment of the Social Fund (Recovery by Deductions from Benefits) Regulations 1988</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-11" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/11" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/11/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>11</ContentsNumber><ContentsTitle>Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-12" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/12" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/12/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>12</ContentsNumber><ContentsTitle>Amendment of the National Health Service (Charges to Overseas Visitors) Regulations 1989</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-13" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/13" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/13/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>13</ContentsNumber><ContentsTitle>Amendment of the National Health Service (Charges to Overseas Visitors) (Scotland) Regulations 1989</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-14" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/14" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/14/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>14</ContentsNumber><ContentsTitle>Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-15" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/15" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/15/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>15</ContentsNumber><ContentsTitle>Amendment of the National Health Service (Injury Benefits) Regulations 1995</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-16" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/16" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/16/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>16</ContentsNumber><ContentsTitle>Amendment of the Jobseeker’s Allowance Regulations 1996</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-17" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/17" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/17/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>17</ContentsNumber><ContentsTitle>Amendment of the Housing Renewal Grants Regulations 1996</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-18" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/18" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/18/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>18</ContentsNumber><ContentsTitle>Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-19" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/19" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/19/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>19</ContentsNumber><ContentsTitle>Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations 2000</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-20" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/20" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/20/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>20</ContentsNumber><ContentsTitle>Amendment of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-21" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/21" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/21/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>21</ContentsNumber><ContentsTitle>Amendment of the Social Security (Contributions) Regulations 2001</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-22" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/22" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/22/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>22</ContentsNumber><ContentsTitle>Amendment of the Social Security (Inherited SERPS) Regulations 2001</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-23" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/23" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/23/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>23</ContentsNumber><ContentsTitle>Amendment of the Social Security (Notification of Change of Circumstances) Regulations 2001</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-24" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/24" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/24/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>24</ContentsNumber><ContentsTitle>Amendment of the State Pension Credit Regulations 2002</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-25" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/25" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/25/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>25</ContentsNumber><ContentsTitle>Amendment of the Tax Credits (Definition and Calculation of Income) Regulations 2002</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-26" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/26" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/26/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>26</ContentsNumber><ContentsTitle>Amendment of the Social Security (Deferral of Retirement Pensions) Regulations 2005</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-27" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/27" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/27/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>27</ContentsNumber><ContentsTitle>Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-28" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/28" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/28/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>28</ContentsNumber><ContentsTitle>Amendment of the Housing Benefit Regulations 2006</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-29" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/29" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/29/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>29</ContentsNumber><ContentsTitle>Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-30" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/30" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/30/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>30</ContentsNumber><ContentsTitle>Amendment of the Transfer of State Pensions and Benefits Regulations 2007</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-31" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/31" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/31/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>31</ContentsNumber><ContentsTitle>Amendment of the Employment and Support Allowance Regulations 2008</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-32" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/32" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/32/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>32</ContentsNumber><ContentsTitle>Amendment of the Criminal Defence Service (Information Requests) (Prescribed Benefits) Regulations 2009</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-33" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/33" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/33/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>33</ContentsNumber><ContentsTitle>Amendment of the Social Security (Maximum Additional Pension) Regulations 2010</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-34" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/34" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/34/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>34</ContentsNumber><ContentsTitle>Amendment of the Equality Act 2010 (Sex Equality Rule) (Exceptions) Regulations 2010</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-35" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/35" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/35/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>35</ContentsNumber><ContentsTitle>Amendment of the Equality Act (Age Exceptions for Pension Schemes) Order 2010</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-36" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/36" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/36/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>36</ContentsNumber><ContentsTitle>Amendment of the Council Tax Reduction (Scotland) Regulations 2012</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-37" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/37" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/37/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>37</ContentsNumber><ContentsTitle>Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-38" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/38" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/38/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>38</ContentsNumber><ContentsTitle>Amendment of the Child Support Maintenance Calculation Regulations 2012</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-39" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/39" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/39/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>39</ContentsNumber><ContentsTitle>Amendment of the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-40" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/40" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/40/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>40</ContentsNumber><ContentsTitle>Amendment of the Council Tax Reduction Schemes (Default Scheme) (England) Regulations 2012</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-41" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/41" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/41/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>41</ContentsNumber><ContentsTitle>Amendment of the Social Security (Payments on Account of Benefit) Regulations 2013</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-42" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/42" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/42/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>42</ContentsNumber><ContentsTitle>Amendment of the Social Security (Overpayments and Recovery) Regulations 2013</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-43" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/43" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/43/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>43</ContentsNumber><ContentsTitle>Amendment of the Legal Aid (Information about Financial Resources) Regulations 2013</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-44" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/44" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/44/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>44</ContentsNumber><ContentsTitle>Amendment of the Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-45" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/article/45" DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/article/45/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>45</ContentsNumber><ContentsTitle>Amendment of the State Pension Regulations 2015</ContentsTitle></ContentsItem>
+
+
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2015/1985/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/1985/introduction">
+<Number>2015 No. 1985</Number>
+<SubjectInformation>
+<Subject>
+<Title>Social Security</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>7th December 2015</DateText>
+</MadeDate>
+<LaidDate>
+<Text>Laid before Parliament</Text>
+<DateText>11th December 2015</DateText>
+</LaidDate>
+<ComingIntoForce>
+<Text>Coming into force in accordance with article 1(2)</Text></ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Secretary of State for Work and Pensions makes the following Order in exercise of the powers conferred by sections 53 and 54(5) of the Pensions Act 2014<FootnoteRef Ref="f00001"/>.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2014/19" id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="2014" Number="0019">2014 c.19</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

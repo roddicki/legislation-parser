@@ -1,0 +1,112 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/made" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423" NumberOfProvisions="205" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/ssi/2015/423"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/ssi/2015/423/contents/made</dc:identifier><dc:title>The Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007 Remedial (No. 2) Order 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer for Scotland</dc:publisher><dc:modified>2015-12-11</dc:modified><dc:subject scheme="SIheading">POLICE</dc:subject><dc:subject scheme="SIheading">CHILDREN AND YOUNG PERSONS</dc:subject><dc:subject scheme="SIheading">PROTECTION OF VULNERABLE ADULTS</dc:subject>
+					<dc:description>This Order makes amendments to the Police Act 1997 (“the 1997 Act”) and the Protection of Vulnerable Groups (Scotland) Act 2007 (“the 2007 Act”) to remove any potential incompatibility, arising from the disclosure of criminal convictions and cautions under the 1997 Act and the 2007 Act, with the European Convention on Human Rights (“the Convention”).</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/ssi/2015/423/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ssi/2015/423/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/policy-note" href="http://www.legislation.gov.uk/id/ssi/2015/423/policy-note" title="Policy Note"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/policy-note/toc" href="http://www.legislation.gov.uk/ssi/2015/423/policy-note/contents" title="Policy Note Table of Contents"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ssi/2015/423/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ssi/2015/423/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/ssi/2015/423/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/ssi/2015/423/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ssi/2015/423/body/made" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/ssi/2015/423/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/ssi/2015/423/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/ssi/2015/423/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/ssi/2015/423/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="423"/><ukm:Made Date="2015-12-10"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2016-02-08"/></ukm:ComingIntoForce><ukm:ISBN Value="9780111030240"/></ukm:SecondaryMetadata>
+					
+					
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/ssi/2015/423/pdfs/ssipn_20150423_en.pdf" Date="2015-12-14" Title="Policy Note" Size="196410"/></ukm:Alternatives></ukm:Notes>
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/ssi/2015/423/pdfs/ssi_20150423_en.pdf" Date="2015-12-11" Size="234038"/></ukm:Alternatives>
+					<ukm:ImpactAssessments>
+									<ukm:ImpactAssessment URI="http://www.legislation.gov.uk/ssi/2015/423/pdfs/ssieqia_20150423_en.pdf" Stage="Equality" Title="Equality Impact Assessment" Year="2015" Number="ssieqia20150423en" Size="32441" Date="2015-12-14"/><ukm:ImpactAssessment URI="http://www.legislation.gov.uk/ssi/2015/423/pdfs/ssifia_20150423_en.pdf" Stage="Final" Title="Final Impact Assessment" Year="2015" Number="ssifia20150423en" Size="47737" Date="2015-12-14"/>
+									
+								</ukm:ImpactAssessments>
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="205"/>
+									<ukm:BodyParagraphs Value="205"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007 Remedial (<Abbreviation Expansion="Number">No.</Abbreviation> 2) Order 2015</ContentsTitle>
+
+<ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/article/1" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/article/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation and commencement</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/article/2" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/article/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Interpretation2</ContentsTitle></ContentsItem>
+<ContentsPblock ContentRef="crossheading-amendment-of-the-1997-act" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/crossheading/amendment-of-the-1997-act" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/crossheading/amendment-of-the-1997-act/made" RestrictExtent="E+W+S+N.I."><ContentsTitle>Amendment of the 1997 Act</ContentsTitle><ContentsItem ContentRef="article-3" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/article/3" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/article/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Amendment of the 1997 Act</ContentsTitle></ContentsItem></ContentsPblock>
+<ContentsPblock ContentRef="crossheading-amendment-of-the-2007-act" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/crossheading/amendment-of-the-2007-act" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/crossheading/amendment-of-the-2007-act/made" RestrictExtent="E+W+S+N.I."><ContentsTitle>Amendment of the 2007 Act</ContentsTitle><ContentsItem ContentRef="article-4" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/article/4" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/article/4/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>4</ContentsNumber><ContentsTitle>Amendment of the 2007 Act 2</ContentsTitle></ContentsItem></ContentsPblock>
+<ContentsPblock ContentRef="crossheading-transitional-provision" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/crossheading/transitional-provision" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/crossheading/transitional-provision/made" RestrictExtent="E+W+S+N.I."><ContentsTitle>Transitional provision</ContentsTitle><ContentsItem ContentRef="article-5" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/article/5" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/article/5/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>5</ContentsNumber><ContentsTitle>Current applications for criminal record certificates and enhanced criminal record certificates under sections 113A, 113B, 114 and 116 of the 1997 Act</ContentsTitle></ContentsItem><ContentsItem ContentRef="article-6" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/article/6" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/article/6/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>6</ContentsNumber><ContentsTitle>Current applications for new certificates under section 117 of the 1997 Act</ContentsTitle></ContentsItem><ContentsItem ContentRef="article-7" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/article/7" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/article/7/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>7</ContentsNumber><ContentsTitle>Current applications for registration under section 120 of the 1997 Act</ContentsTitle></ContentsItem><ContentsItem ContentRef="article-8" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/article/8" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/article/8/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>8</ContentsNumber><ContentsTitle>Current disclosure requests under sections 52 and 53 of the 2007 Act</ContentsTitle></ContentsItem><ContentsItem ContentRef="article-9" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/article/9" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/article/9/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>9</ContentsNumber><ContentsTitle>Correction of scheme records under section 51 of the 2007 Act</ContentsTitle></ContentsItem><ContentsItem ContentRef="article-10" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/article/10" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/article/10/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>10</ContentsNumber><ContentsTitle>Current nominations under regulation 4 of the Police Act 1997 (Criminal Records) (Registration) (Scotland) Regulations 2010</ContentsTitle></ContentsItem></ContentsPblock>
+<ContentsPblock ContentRef="crossheading-consequential-amendments" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/crossheading/consequential-amendments" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/crossheading/consequential-amendments/made" RestrictExtent="E+W+S+N.I."><ContentsTitle>Consequential amendments</ContentsTitle><ContentsItem ContentRef="article-11" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/article/11" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/article/11/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>11</ContentsNumber><ContentsTitle>Amendment of the Protection of Vulnerable Groups (Scotland) Act 2007 (Fees for Scheme Membership and Disclosure Requests) Regulations 2010</ContentsTitle></ContentsItem><ContentsItem ContentRef="article-12" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/article/12" DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/article/12/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>12</ContentsNumber><ContentsTitle>Revocation</ContentsTitle></ContentsItem></ContentsPblock>
+
+
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/ssi/2015/423/introduction/made" IdURI="http://www.legislation.gov.uk/id/ssi/2015/423/introduction">
+<Draft>
+<Para><Text>Order made by the Scottish Ministers, laid before the Scottish Parliament under section 14(5)(b) of the Convention Rights (Compliance) (Scotland) Act 2001 for approval by resolution of the Scottish Parliament within 120 days beginning with 9th September 2015, being the date on which the Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007 Remedial Order 2015 was made, not taking into account periods of dissolution or recess for more than 4 days.</Text></Para>
+</Draft>
+<Number>2015 No. 423</Number>
+<SubjectInformation>
+<Subject>
+<Title>Police</Title>
+</Subject>
+<Subject>
+<Title>Children And Young Persons</Title>
+</Subject>
+<Subject>
+<Title>Protection Of Vulnerable Adults</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007 Remedial (No. 2) Order 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>10th December 2015</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>8th February 2016</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<IntroductoryText>
+<P>
+<Text>The Scottish Ministers make the following remedial Order in exercise of the powers conferred by section 12(1) and (3) and 14(5)(a) of the Convention Rights (Compliance) (Scotland) Act 2001<FootnoteRef Ref="f00001"/> (“the 2001 Act”) and all other powers enabling them to do so.</Text></P>
+<P>
+<Text>The Scottish Ministers consider the provision made by this Order to be necessary or expedient in consequence of the provisions in the Police Act 1997<FootnoteRef Ref="f00002"/> and the Protection of Vulnerable Groups (Scotland) Act 2007<FootnoteRef Ref="f00003"/> in relation to disclosure of spent criminal convictions and other related matters which may be incompatible with Convention rights<FootnoteRef Ref="f00004"/>.</Text></P>
+<P>
+<Text>In accordance with section 12(2) of the 2001 Act the Scottish Ministers are of the opinion that there are compelling reasons for making a remedial order as distinct from taking any other action.</Text></P>
+<P>
+<Text>In accordance with section 14(2) of the 2001 Act the Scottish Ministers gave such public notice as they considered appropriate of the contents of the Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007 Remedial Order 2015 and invited persons wishing to make observations on the Order to do so.</Text></P>
+</IntroductoryText>
+<EnactingText>
+<Para>
+<Text>In accordance with section 14(4) of the 2001 Act as soon as practicable after the end of the period mentioned in section 14(2)(a) of the 2001 Act, they laid before the Scottish Parliament a statement summarising all the observations to which they had had regard under section 14(3) of the 2001 Act and specifying the modifications which they consider it appropriate to make to the Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007 Remedial Order 2015.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/asp/2001/7" id="c00001" Class="ScottishAct" Year="2001" Number="0007">2001 asp 7</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1997/50" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1997" Number="0050">1997 c.50</Citation>. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1998/46" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0046">1998 (c.46)</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00003">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/asp/2007/14" id="c00004" Class="ScottishAct" Year="2007" Number="0014">2007 asp 14</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00004">
+<FootnoteText>
+<Para><Text>The “Convention rights” has the meaning given by section 1 of the Human Rights Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1998/42" id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0042">1998 (c.42)</Citation>. In the case of <Emphasis>R (on the application of T and another) v Secretary of State for the Home Department and another [2014] UKSC 35</Emphasis> (judgment of 18th June 2014), the Supreme Court made a declaration of incompatibility under section 4 of the Human Rights Act 1998 that the provisions of sections 113A and 113B of the Police Act 1997 (as applicable in England and Wales) were incompatible with article 8 of the Convention because the requirements in relation to blanket disclosure of all spent convictions were not in accordance with the law. Similar provisions in sections 113A and 113B of the Police Act 1997 (as applicable in Scotland) may be incompatible with article 8 of the Convention. Section 49(1)(a) of the Protection of Vulnerable Groups (Scotland) Act 2007 relies on section 113A(3)(a) of the Police Act 1997 and may also be incompatible with article 8 of the Convention.</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

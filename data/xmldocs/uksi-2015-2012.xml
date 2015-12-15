@@ -1,0 +1,85 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012" NumberOfProvisions="24" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2015/2012"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2015/2012/contents/made</dc:identifier><dc:title>The Deep Sea Mining Act 1981 (Isle of Man) Order 2015</dc:title><dc:language>en</dc:language><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2015-12-10</dc:modified><dc:subject scheme="SIheading">DEEP SEA MINING</dc:subject>
+					<dc:description>This Order extends the provisions of the Deep Sea Mining Act 1981 (c.53) as it currently has effect in the United Kingdom to the Isle of Man with certain modifications and it revokes the Deep Sea Mining (Temporary Provisions) Act 1981 (Isle of Man) Order 2000 (S.I. 2000/1112).</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2015/2012/contents/made/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2015/2012/resources" title="More Resources"/>
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2015/2012/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2015/2012/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2015/2012/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2015/2012/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2015/2012/body/made" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/uksi/2015/2012/schedules/made" title="schedules"/>
+					
+					<atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2015/2012/contents/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2015/2012/contents/made/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2015/2012/contents/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2015/2012/contents/made/data.html" title="HTML5 snippet"/>
+
+					
+					
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="2015"/><ukm:Number Value="2012"/><ukm:Made Date="2015-12-09"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2016-01-01"/></ukm:ComingIntoForce><ukm:ISBN Value="9780111141922"/></ukm:SecondaryMetadata>
+					
+					
+									
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2015/2012/pdfs/uksi_20152012_en.pdf" Date="2015-12-14" Size="43714"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="24"/>
+									<ukm:BodyParagraphs Value="3"/>
+									<ukm:ScheduleParagraphs Value="21"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Contents>
+<ContentsTitle>The Deep Sea Mining Act 1981 (Isle of Man) Order 2015</ContentsTitle>
+
+<ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/article/1" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/article/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle>Citation and commencement</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/article/2" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/article/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle>Extension of the Deep Sea Mining Act 1981 to the Isle of Man</ContentsTitle></ContentsItem>
+<ContentsItem ContentRef="article-3" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/article/3" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/article/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle>Revocation</ContentsTitle></ContentsItem>
+
+
+<ContentsSchedules>
+<ContentsSchedule ContentRef="schedule" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>SCHEDULE</ContentsNumber><ContentsTitle>Modifications to be made in the extension of the Deep Sea Mining Act 1981 to the Isle of Man</ContentsTitle><ContentsItem ContentRef="schedule-paragraph-1" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/1" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/1/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>1</ContentsNumber><ContentsTitle Generated="true">In section 1 (prohibition of unlicensed deep sea mining)— </ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-2" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/2" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/2/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>2</ContentsNumber><ContentsTitle Generated="true">In section 2 (exploration and exploitation licences)— </ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-3" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/3" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/3/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>3</ContentsNumber><ContentsTitle Generated="true">In section 3 (contracts granted by the Authority)— </ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-4" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/4" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/4/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>4</ContentsNumber><ContentsTitle Generated="true">In section 4(2)(a) (prevention of interference with licensed operations) for...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-5" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/5" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/5/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>5</ContentsNumber><ContentsTitle Generated="true">In section 5 (protection of the marine environment)— </ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-6" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/6" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/6/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>6</ContentsNumber><ContentsTitle Generated="true">In section 6 (variation and revocation of licences) omit subsection...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-7" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/7" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/7/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>7</ContentsNumber><ContentsTitle Generated="true">In section 8 (foreign discriminatory action)— (a) in subsection (1)—...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-8" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/8" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/8/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>8</ContentsNumber><ContentsTitle Generated="true">In section 8A (enforcement of decisions of the Seabed Disputes...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-9" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/9" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/9/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>9</ContentsNumber><ContentsTitle Generated="true">For section 8C (recognition and enforcement of arbitration awards) substitute—...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-10" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/10" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/10/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>10</ContentsNumber><ContentsTitle Generated="true">In section 11 (inspectors)— (a) in subsection (1) omit “or...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-11" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/11" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/11/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>11</ContentsNumber><ContentsTitle Generated="true">In section 12 (regulations and orders)— (a) in subsection (1)...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-12" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/12" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/12/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>12</ContentsNumber><ContentsTitle Generated="true">In section 13 (disclosure of information)— (a) in subsection (1),...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-13" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/13" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/13/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>13</ContentsNumber><ContentsTitle Generated="true">In section 14 (supplementary provisions relating to offences)— </ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-14" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/14" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/14/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>14</ContentsNumber><ContentsTitle Generated="true">In section 15(1) (civil liability for breach of statutory duty)...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-15" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/15" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/15/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>15</ContentsNumber><ContentsTitle Generated="true">For section 16 (exclusion of certain legislation) substitute— Exclusion of...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-16" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/16" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/16/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>16</ContentsNumber><ContentsTitle Generated="true">In section 17 (interpretation) after the definition of “inspector” insert—...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-17" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/17" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/17/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>17</ContentsNumber><ContentsTitle Generated="true">Omit section 17A (exercise of functions by the Scottish Ministers)....</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-18" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/18" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/18/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>18</ContentsNumber><ContentsTitle Generated="true">In section 18 (short title, etc.), omit subsections (2), (6)...</ContentsTitle></ContentsItem><ContentsItem ContentRef="schedule-paragraph-19" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/schedule/paragraph/19" DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/schedule/paragraph/19/made" RestrictExtent="E+W+S+N.I."><ContentsNumber>19</ContentsNumber><ContentsTitle Generated="true">In the Schedule (subject matter of regulations), in paragraph 5...</ContentsTitle></ContentsItem></ContentsSchedule>
+</ContentsSchedules>
+
+</Contents><Secondary><SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2015/2012/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2015/2012/introduction">
+<Number>2015 No. 2012</Number>
+<SubjectInformation>
+<Subject>
+<Title>Deep Sea Mining</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Deep Sea Mining Act 1981 (Isle of Man) Order 2015</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>9th December 2015</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>1st January 2016</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<RoyalPresence><Para>
+<Text>At the Court at Buckingham Palace, the 9th day of December 2015</Text><Text>Present,</Text><Text>The Queen’s Most Excellent Majesty in Council</Text></Para>
+</RoyalPresence>
+<EnactingText>
+<Para>
+<Text>Her Majesty, in exercise of the powers conferred on Her by section 18(6)<FootnoteRef Ref="f00001"/> of the Deep Sea Mining Act 1981<FootnoteRef Ref="f00002"/>, is pleased, by and with the advice of Her Privy Council, to make the following Order.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims></Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para><Text>As extended by section 2(2) of the Deep Sea Mining Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2014/15" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="2014" Number="0015">2014 (c. 15)</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para><Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1981/53" id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1981" Number="0053">1981 c.53</Citation>, as amended by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1981/61" id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="1981" Number="0061">1981 c.61</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/1986/948" id="c00006" Class="UnitedKingdomStatutoryInstrument" Year="1986" Number="0948">S.I. 1986/948</Citation>, <Citation URI="http://www.legislation.gov.uk/id/ukpga/1993/50" id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="1993" Number="0050">1993 c. 50</Citation>, <Citation URI="http://www.legislation.gov.uk/id/ukpga/1995/44" id="c00008" Class="UnitedKingdomPublicGeneralAct" Year="1995" Number="0044">1995 c.44</Citation>, <Citation URI="http://www.legislation.gov.uk/id/ukpga/2002/8" id="c00009" Class="UnitedKingdomPublicGeneralAct" Year="2002" Number="0008">2002 c.8</Citation> and <Citation URI="http://www.legislation.gov.uk/id/ukpga/2014/15" id="c00010" Class="UnitedKingdomPublicGeneralAct" Year="2014" Number="0015">2014 c.15</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>
