@@ -142,13 +142,13 @@ class LegislationParser:
             'url':entry['url'],
             'filename':entry['filename'],
             # Published
-            'rss_published_year':entry['published'],                
-            'rss_published_month':,
-            'rss_published_day':'INTEGER', 
+            'rss_published_year':entry['published_year'],                
+            'rss_published_month':entry['published_month'],
+            'rss_published_day':entry['published_day'], 
             # Updated
-            'rss_updated_year':'INTEGER',                
-            'rss_updated_month':'INTEGER',
-            'rss_updated_day':'INTEGER' 
+            'rss_updated_year':entry['updated_year'],                
+            'rss_updated_month':entry['updated_month'],
+            'rss_updated_day':entry['updated_day'] 
         }
         keys = names = c = ''
         for key in values:
@@ -156,8 +156,9 @@ class LegislationParser:
             names = names+c+key
             c = ', '
         qry = "INSERT OR IGNORE INTO legislation("+names+") VALUES ("+keys+")"
-        logging.info(qry)
+        logging.debug(qry)
         self.cursor.execute(qry, values)
+        self.db.commit()
 
     # Download the list of latest legislation
     def grablatest(self):
@@ -277,17 +278,40 @@ class LegislationParser:
                 'Year': self.grabxmlattrib(entry, mns, 'Year', 'Value'), 
                 # My additions
                 'url':myid+'/data.xml' ,
-                'filename': self.genfilename(myid)
+                'filename': self.genfilename(myid),
+                'type': self.gentype(myid)   
             }
+            entry = self.splitdate(entry, 'published', entry['published'])
+            entry = self.splitdate(entry, 'updated', entry['updated'])
+            logging.debug(pprint.pformat(entry)) 
             data.append(entry)
-        logging.debug(pprint.pformat(entry))
         logging.info('FINSHED PARSING RSS FEED\n')
         return data
-    
+
+    def splitdate(self, entry, title, date):
+        year=month=day=0
+        if date == None:
+            date = 'None'
+        datelist = date.split('-')
+        if len(datelist) == 3:
+            year = datelist[0]
+            month = datelist[1]
+            daylist = datelist[2].split('T')
+            day = daylist[0]
+        entry[title+'_year'] = year 
+        entry[title+'_month'] = month
+        entry[title+'_day'] = day 
+        return entry
+
     def genfilename(self, myid):
         filename = myid.replace('http://www.legislation.gov.uk/id/', '')
         filename = filename.replace('/','-')
         return 'data/xmldocs/'+filename+'.xml'
+
+    def gentype(self, myid):
+        mytype = myid.replace('http://www.legislation.gov.uk/id/', '')
+        mytypelist = mytype.split('/')
+        return mytypelist[0]
 
     def grabxmltext(self, element, path, ref):
         try:
