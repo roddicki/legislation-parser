@@ -153,6 +153,11 @@ class LegislationParser:
         # Connect to the database
         self.db = sqlite3.connect(databasefile)
         self.cursor = self.db.cursor()
+    
+    # Run query on the database
+    def querylegi(self, qry):
+        result = self.cursor.execute(qry)  
+        return self.cursor.fetchall()  
 
     # Count legislation within a gievn date range
     def countlegi(self, datefield, year, month, day):
