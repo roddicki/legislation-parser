@@ -5,7 +5,7 @@ from vellum import LegislationParser
 # Object to parse legislation data
 legi = LegislationParser()
 
-# Download and grab the latest legislation entries from:
+# Save the latest legislation entries from:
 #   http://www.legislation.gov.uk/new/data.feed
 legi.grablatest()
 
