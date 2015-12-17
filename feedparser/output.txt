@@ -1,0 +1,18 @@
+this atom feed was updated at Tue, 15 Dec 2015 17:12:08 GMT
+entries_in_collection_period: 9
+A piece of legislation was passed every0.375hrs in the last 24hrs
+======Tue, 15 Dec 2015 17:12:08 GMT :atom feed was update
+9 entries_in_collection_period: 
+A piece of legislation was passed every
+0.375 hrs in the last 24hrs
+======
+Tue, 15 Dec 2015 17:12:08 GMT :atom feed update
+9 entries_in_collection_period: 
+A piece of legislation was passed every
+0.375 hrs in the last 24hrs
+======
+Tue, 15 Dec 2015 17:12:08 GMT :atom feed update
+9 entries_in_collection_period: 
+A piece of legislation was passed every
+0.375 hrs in the last 24hrs since the atom update time
+======

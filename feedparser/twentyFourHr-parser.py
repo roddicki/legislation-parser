@@ -14,7 +14,7 @@ import calendar
 #these functions retrieve the hourly frequency of legislation
 def run():
 	#Print the day
-	print 'It is',calendar.day_name[date.today().weekday()], '\n======'
+	print 'It is',calendar.day_name[date.today().weekday()]
 	twentyFourHourFrequency()
 	#frequencyOfLegislation()
 
@@ -26,31 +26,27 @@ def twentyFourHourFrequency():
 	#Friday is used because no legislation is passed on a wkend and Friday would have been within the last 24hrs of legislative activity
 	#On a weekend the hourly frequency will always be 0
 	feed = feedparser.parse('http://www.legislation.gov.uk/new/data.feed')
-	print 'this atom feed was updated at', feed.updated, '\n'
 	entries_in_collection_period = 0
 	currentTime = (tuple(time.gmtime()))
 	timestamp_currentTime = calendar.timegm(currentTime)
 	for x in xrange(0,len(feed.entries)): #loop through all the entries
-		print feed.entries[x].title
+		#print feed.entries[x].title
 		timestamp_entryDate = mktime(parse_date(feed.entries[x].published)) #get each entry published date and change to unix format
-		print timestamp_entryDate
-		print datetime.fromtimestamp(timestamp_entryDate), 'date published'
+		#print timestamp_entryDate
+		#print datetime.fromtimestamp(timestamp_entryDate), 'date published'
 		hours_old = (timestamp_currentTime - timestamp_entryDate)/ 3600.0
-		print hours_old, 'hours old'
+		#print hours_old, 'hours old'
 		current_weekday = calendar.day_name[date.today().weekday()] #get current weekday name eg Monday
 		if current_weekday=='Monday' and hours_old < 72: #if its Monday find entries back to Friday (72hrs)
 			entries_in_collection_period += 1
 			print 'added to the frequency list\n'
 		elif hours_old < 24: #else find entries in the last 24hrs
 			entries_in_collection_period += 1
-	print 'entries_in_collection_period:', entries_in_collection_period
 	hourly_frequency = float(entries_in_collection_period)/24 #calc the hourly frequency of entries
-	print 'A piece of legislation was passed every', hourly_frequency, 'hrs in the last 24hrs\n'
+	msg = ['\n', str(feed.updated), ' :atom feed update\n', str(entries_in_collection_period), ' entries_in_collection_period: ', '\nA piece of legislation was passed every\n', str(hourly_frequency), ' hrs in the last 24hrs since the atom update time\n======']
+	writeTofile('output.txt', "".join(msg))
+	print "".join(msg)
 	return hourly_frequency
-
-
-
-
 
 
 def frequencyOfLegislation():
@@ -72,7 +68,10 @@ def frequencyOfLegislation():
 	    if key == currentDay:
 	    	print 'Today, right now, there is a piece of legislation every', float(int(frequency[key]))/24, 'hours\n'
 
-
+def writeTofile(outputFile, msg):
+	target = open(outputFile, 'a')
+	target.write(msg)
+	target.close()
    
 if __name__ == "__main__":
 	run()
