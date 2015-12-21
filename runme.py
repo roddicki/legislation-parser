@@ -40,7 +40,7 @@ def frequencytest():
     top2 = top+ranger
     bot = mean-standard
     bot2 = bot-ranger
-    mystr = 'TodayPerHour:{}  {}YearMean:{:02.2f} StandardDeviation:{:02.2f} top:{:02.2f}, top2:{:02.2f} bot:{:02.2f} bot2:{:02.2f}'
+    mystr = 'TodayPerHour:{0}  {1}YearMean:{2:02.2f} StandardDeviation:{3:02.2f} top:{4:02.2f}, top2:{5:02.2f} bot:{6:02.2f} bot2:{7:02.2f}'
     print('\nTODAYS CALCULATION')
     print(mystr.format(perhour, yearsback, mean, standard, top, top2, bot, bot2))
     # Calculate what to do with it!

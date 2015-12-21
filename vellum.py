@@ -187,13 +187,13 @@ class LegislationParser:
         op = ''
         # If its todays date calculate hourly average up until current time
         today = time.strftime("%d/%m/%Y") 
-        qrydate = '{}/{}/{}'.format(day,month,year)
+	qrydate = '{0}/{1}/{2}'.format(day,month,year)
         hoursinday = 24.0  
         if today == qrydate:
             hoursinday = float(time.strftime("%H")) 
-            header = '\nLEGISLATION PUBLISHED IN THE LAST {} HOURS\n'.format(int(hoursinday))
+            header = '\nLEGISLATION PUBLISHED IN THE LAST {0} HOURS\n'.format(int(hoursinday))
         else:
-            header = '\nAVERAGE "{}" "{}" LEGISLATION FOR PAST {} YEARS FOR THIS DAY {}/{}/{}\n'.format(datefield, types, pastyears, day, month, year)
+            header = '\nAVERAGE "{0}" "{1}" LEGISLATION FOR PAST {2} YEARS FOR THIS DAY {3}/{4}/{5}\n'.format(datefield, types, pastyears, day, month, year)
         total = median = counter = weekends = 0
         # Loop through and make the calculation
         nums = []
@@ -209,7 +209,7 @@ class LegislationParser:
                 count = self.countlegi(datefield, year, month, day, types)   
                 total = total + count
                 nums.append(count)
-            mystr = '{} legislation {}/{}/{} = {} {}'.format(datefield, day, month, year, count, weekend)
+            mystr = '{0} legislation {1}/{2}/{3} = {4} {5}'.format(datefield, day, month, year, count, weekend)
             op = op+mystr+'\n'
             counter = counter+1
             year = year-1
@@ -218,7 +218,7 @@ class LegislationParser:
         mean = total/releventyears
         hourly = round(mean/hoursinday, 2)
         if hoursinday != 24.00:
-            print('{}{}TOTAL={} MEAN(per hour)={}'.format(header, op, total, hourly))  
+            print('{0}{1}TOTAL={2} MEAN(per hour)={3}'.format(header, op, total, hourly))  
             return hourly    
         # Calculate standard deviation of legislation per day
         tot = 0 
@@ -229,7 +229,7 @@ class LegislationParser:
         standard = int(math.sqrt(variance))
         standardhourly = float(standard)/24.00
         #print('total:{} mean:{} variance:{} standard:{}'.format(tot, mean, variance, standard))
-        output = '{}{}TOTAL={} RELEVENTYEARS={} MEAN(per day)={} MEAN(per hour)={:02.2f} STANDARDdev(per day)={} STANDARDdev(per hour)={:02.2f}'.format(header, op, total, releventyears, mean, hourly, standard, standardhourly)
+        output = '{0}{1}TOTAL={2} RELEVENTYEARS={3} MEAN(per day)={4} MEAN(per hour)={5:02.2f} STANDARDdev(per day)={6} STANDARDdev(per hour)={7:02.2f}'.format(header, op, total, releventyears, mean, hourly, standard, standardhourly)
         print(output)
         result = {}
         result['standard-deviation'] = standardhourly
