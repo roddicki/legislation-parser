@@ -24,7 +24,7 @@
 # Controller of HMSO and the Queen's Printer for Scotland.
 
 # Dependencies 
-import logging, pprint, urllib, os.path, sqlite3
+import logging, math, time, pprint, urllib, os.path, sqlite3, datetime
 import xml.etree.ElementTree as ET
 from databasebuilder import DatabaseBuilder
 
@@ -160,21 +160,82 @@ class LegislationParser:
         return self.cursor.fetchall()  
 
     # Count legislation within a gievn date range
-    def countlegi(self, datefield, year, month, day):
-        yearstr=daystr=monthstr=''
+    def countlegi(self, datefield, year, month=None, day=None, types=None):
+        yearstr=daystr=monthstr=typestr=''
         if year!=None:
             yearstr = "rss_"+datefield+"_year="+str(year)+" AND "
         if month!=None:
             monthstr = "rss_"+datefield+"_month="+str(month)+" AND "
         if day!=None:
             daystr = "rss_"+datefield+"_day="+str(day)+" AND "
-        datestr = yearstr+monthstr+daystr
-        datestr = datestr[:-4]
-        qry = "SELECT count(*) FROM legislation WHERE "+datestr
+        if types!=None:
+            typesarr = types.split(' ')
+            for item in typesarr:
+             typestr = typestr+"type='"+item+"' OR "
+            typestr = typestr[:-3]            
+            typestr = '('+typestr+') AND '
+        andstr = yearstr+monthstr+daystr+typestr
+        andstr = andstr[:-4]
+        qry = "SELECT count(*) FROM legislation WHERE "+andstr
         logging.info(qry)
         result = self.cursor.execute(qry)
         item = self.cursor.fetchone()
         return item[0]
+    
+    # Count average frequency of legislation for past n years
+    def countaveragelegi(self, pastyears, datefield, year, month=None, day=None, types=None):
+        op = ''
+        # If its todays date calculate hourly average up until current time
+        today = time.strftime("%d/%m/%Y") 
+        qrydate = '{}/{}/{}'.format(day,month,year)
+        hoursinday = 24.0  
+        if today == qrydate:
+            hoursinday = float(time.strftime("%H")) 
+            header = '\nLEGISLATION PUBLISHED IN THE LAST {} HOURS\n'.format(int(hoursinday))
+        else:
+            header = '\nAVERAGE "{}" "{}" LEGISLATION FOR PAST {} YEARS FOR THIS DAY {}/{}/{}\n'.format(datefield, types, pastyears, day, month, year)
+        total = median = counter = weekends = 0
+        # Loop through and make the calculation
+        nums = []
+        while counter < pastyears:
+            weekend = ''
+            perhour = ''
+            dayofweek = datetime.datetime(year, month, day).weekday()
+            count = self.countlegi(datefield, year, month, day, types)   
+            if dayofweek == 5 or dayofweek == 6:
+                weekend = '[Its the weekend!]'
+                weekends = weekends+1
+            else:
+                count = self.countlegi(datefield, year, month, day, types)   
+                total = total + count
+                nums.append(count)
+            mystr = '{} legislation {}/{}/{} = {} {}'.format(datefield, day, month, year, count, weekend)
+            op = op+mystr+'\n'
+            counter = counter+1
+            year = year-1
+        # Calculate mean 
+        releventyears  = pastyears-weekends    
+        mean = total/releventyears
+        hourly = round(mean/hoursinday, 2)
+        if hoursinday != 24.00:
+            print('{}{}TOTAL={} MEAN(per hour)={}'.format(header, op, total, hourly))  
+            return hourly    
+        # Calculate standard deviation of legislation per day
+        tot = 0 
+        for v in nums:
+            n = (v-mean)*(v-mean)
+            tot = tot+n
+        variance = tot/releventyears
+        standard = int(math.sqrt(variance))
+        standardhourly = float(standard)/24.00
+        #print('total:{} mean:{} variance:{} standard:{}'.format(tot, mean, variance, standard))
+        output = '{}{}TOTAL={} RELEVENTYEARS={} MEAN(per day)={} MEAN(per hour)={:02.2f} STANDARDdev(per day)={} STANDARDdev(per hour)={:02.2f}'.format(header, op, total, releventyears, mean, hourly, standard, standardhourly)
+        print(output)
+        result = {}
+        result['standard-deviation'] = standardhourly
+        result['mean-perhour'] = hourly
+        return result
+    
 
     def dbsaveRSSentry(self, entry):
         values = {
