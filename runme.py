@@ -1,6 +1,7 @@
 #! /bin/python2
 import time
 from vellum import LegislationParser
+from make_json import makeJSON
 
 
 # Global object to parse legislation data
@@ -38,22 +39,33 @@ def frequencytest():
     ranger = 0.1
     top = mean+standard
     top2 = top+ranger
+    top3 = top+ranger+ranger
     bot = mean-standard
     bot2 = bot-ranger
-    mystr = 'TodayPerHour:{0}  {1}YearMean:{2:02.2f} StandardDeviation:{3:02.2f} top:{4:02.2f}, top2:{5:02.2f} bot:{6:02.2f} bot2:{7:02.2f}'
+    mystr = 'TodayPerHour:{0}  \n{1}YearMean:{2:02.2f} \nStandardDeviation:{3:02.2f} \ntop:{4:02.2f}, \ntop2:{5:02.2f} \ntop3:{6:02.2f} \nbot:{7:02.2f} \nbot2:{8:02.2f}'
     print('\nTODAYS CALCULATION')
-    print(mystr.format(perhour, yearsback, mean, standard, top, top2, bot, bot2))
+    print(mystr.format(perhour, yearsback, mean, standard, top, top2, top3, bot, bot2))
     # Calculate what to do with it!
+    outlierValue = 0
     if perhour >= top and perhour <= top2:
-        print('We are just above the standard')
-    elif perhour >= top2:
-        print('We are way above the standard!')
+        print('outlier:1 - We are just above the standard deviation')
+        outlierValue = 1
+    elif perhour >= top2 and perhour <= top3:
+        print('outlier:2 - We are way above the standard deviation')
+        outlierValue = 2
+    elif perhour >= top3:
+        print('outlier:3 - We are way way above the standard deviation + ranger')
+        outlierValue = 3
     elif perhour < bot and perhour > bot2:
-        print('We are just below the standard')
+        print('outlier:0 - We are just below the standard')
+        outlierValue = 0
     elif perhour < bot2:
-        print('We are just substantially below the standard')
+        print('outlier:0 - We are just substantially below the standard')
+        outlierValue = 0
     else:
-        print('Looks like we are within standard range:)')
+        print('outlier:0 - Looks like we are between mean and standard deviation')
+        outlierValue = 0
+    makeJSON(outlierValue)
 
 # Some example queries
 def examples():
