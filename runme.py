@@ -30,7 +30,8 @@ def frequencytest():
     year = int(time.strftime("%Y"))
     types = 'uksi ssi wsi ukci ukdsi sdsi nidsr wdsi'
     # Todays hourly frequency of legislation so far
-    perhour = legi.countaveragelegi(1, datefield, year, month, day, types) 
+    perhour = legi.countaveragelegi(1, datefield, year, month, day, types)
+    todayPerhour = perhour['mean-perhour']
     # Mean hourly frequency of legislation over past 20 years
     yearsback = 20
     result = legi.countaveragelegi(yearsback, datefield, year-1, month, day, types)
@@ -47,19 +48,20 @@ def frequencytest():
     print(mystr.format(perhour, yearsback, mean, standard, top, top2, top3, bot, bot2))
     # Calculate what to do with it!
     outlierValue = 0
-    if perhour >= top and perhour <= top2:
+    print "todayPerhour:", todayPerhour
+    if todayPerhour > top and todayPerhour <= top2:
         print('outlier:1 - We are just above the standard deviation')
         outlierValue = 1
-    elif perhour >= top2 and perhour <= top3:
+    elif todayPerhour > top2 and todayPerhour <= top3:
         print('outlier:2 - We are way above the standard deviation')
         outlierValue = 2
-    elif perhour >= top3:
+    elif todayPerhour > top3:
         print('outlier:3 - We are way way above the standard deviation + ranger')
         outlierValue = 3
-    elif perhour < bot and perhour > bot2:
+    elif todayPerhour < bot and todayPerhour > bot2:
         print('outlier:0 - We are just below the standard')
         outlierValue = 0
-    elif perhour < bot2:
+    elif todayPerhour < bot2:
         print('outlier:0 - We are just substantially below the standard')
         outlierValue = 0
     else:
