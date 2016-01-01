@@ -18,7 +18,7 @@ def makeJSON(data):
 	jsonContents["outlierScale"] = data
 	jsonContents["date"] = timenow()
 	# Writing JSON data
-	with open('outliers.json', 'w') as f:
+	with open('../public_html/ramm/outliers.json', 'w') as f:
 		json.dump(jsonContents, f)
 
 
