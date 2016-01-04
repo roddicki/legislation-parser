@@ -34,7 +34,8 @@ logging.basicConfig(level=logging.ERROR, format='%(asctime)s - %(levelname)s - %
 def run():
   
     # Object to parse legislation data
-    legi = LegislationParser()
+    db = "data/db.sqlite3"
+    legi = LegislationParser(db)
     
     # Save rss entries of all legislation created since 1200
     # legi.makehistory() 
@@ -72,9 +73,10 @@ def run():
 class LegislationParser:
 
     # Initialise the object
-    def __init__(self):
+    def __init__(self, db):
         # Inititalise the database structure
-        self.initdatabase()
+ 	self.db = db
+	self.initdatabase()
         # Return a full list of legislation via:
         #    www.legislation.gov.uk/1110-2016/data.feed?page=5063
         # Where page 5063 is the final page in the list
@@ -148,7 +150,7 @@ class LegislationParser:
             }
         }
         # Initialise the database and build it if it doesn't exist
-        databasefile = "data/db.sqlite3"
+        databasefile = self.db 
         builder = DatabaseBuilder(databasefile, dbstruct) 
         # Connect to the database
         self.db = sqlite3.connect(databasefile)
