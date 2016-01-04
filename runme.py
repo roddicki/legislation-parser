@@ -18,9 +18,8 @@ def run():
     frequencytest()
 
     # Save output of the search queries to file and print
-    print('\n'+output)
     legi.writeoutput('test.txt', output)
-
+    
 def frequencytest():
     output = ''
     # Prep query variables and store todays date

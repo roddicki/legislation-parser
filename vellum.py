@@ -68,6 +68,56 @@ def run():
 
     # All finished
     logging.info('FINISHED SCRIPT\n')
+    
+    # frequencytest
+    frequencytest(legi)
+    
+def frequencytest(legi):
+    output = ''
+    # Prep query variables and store todays date
+    datefield = 'published'
+    day =  4 # int(time.strftime("%d"))
+    month = 1 # int(time.strftime("%m"))
+    year =  2015 # int(time.strftime("%Y"))
+    types = 'uksi ssi wsi ukci ukdsi sdsi nidsr wdsi'
+    # Todays hourly frequency of legislation so far
+    perhour = legi.countaveragelegi(1, datefield, year, month, day, types)
+    todayPerhour = perhour['mean-perhour']
+    # Mean hourly frequency of legislation over past 20 years
+    yearsback = 20
+    result = legi.countaveragelegi(yearsback, datefield, year-1, month, day, types)
+    mean = result['mean-perhour']
+    standard = result['standard-deviation']
+    ranger = 0.1
+    top = mean+standard
+    top2 = top+ranger
+    top3 = top+ranger+ranger
+    bot = mean-standard
+    bot2 = bot-ranger
+    mystr = 'TodayPerHour:{0}  \n{1}YearMean:{2:02.2f} \nStandardDeviation:{3:02.2f} \ntop:{4:02.2f}, \ntop2:{5:02.2f} \ntop3:{6:02.2f} \nbot:{7:02.2f} \nbot2:{8:02.2f}'
+    print('\nTODAYS CALCULATION')
+    print(mystr.format(perhour, yearsback, mean, standard, top, top2, top3, bot, bot2))
+    # Calculate what to do with it!
+    outlierValue = 0
+    print "todayPerhour:", todayPerhour
+    if todayPerhour > top and todayPerhour <= top2:
+        print('outlier:1 - We are just above the standard deviation')
+        outlierValue = 1
+    elif todayPerhour > top2 and todayPerhour <= top3:
+        print('outlier:2 - We are way above the standard deviation')
+        outlierValue = 2
+    elif todayPerhour > top3:
+        print('outlier:3 - We are way way above the standard deviation + ranger')
+        outlierValue = 3
+    elif todayPerhour < bot and todayPerhour > bot2:
+        print('outlier:0 - We are just below the standard')
+        outlierValue = 0
+    elif todayPerhour < bot2:
+        print('outlier:0 - We are just substantially below the standard')
+        outlierValue = 0
+    else:
+        print('outlier:0 - Looks like we are between mean and standard deviation')
+        outlierValue = 0
 
 # Class to grab legislation rss feed
 class LegislationParser:
@@ -187,16 +237,21 @@ class LegislationParser:
     # Count average frequency of legislation for past n years
     def countaveragelegi(self, pastyears, datefield, year, month=None, day=None, types=None):
         op = ''
+        # Is thisnday a weekend?
+        isweekend = False 
+        dayofweek = datetime.datetime(year, month, day).weekday()
+        if dayofweek == 5 or dayofweek == 6:
+            isweekend = True
         # If its todays date calculate hourly average up until current time
         today = time.strftime("%d/%m/%Y") 
-	qrydate = '{0}/{1}/{2}'.format(day,month,year)
+        qrydate = '{0}/{1}/{2}'.format(day,month,year)
         hoursinday = 24.0  
         if today == qrydate:
             hoursinday = float(time.strftime("%H")) 
             header = '\nLEGISLATION PUBLISHED IN THE LAST {0} HOURS\n'.format(int(hoursinday))
         else:
             header = '\nAVERAGE "{0}" "{1}" LEGISLATION FOR PAST {2} YEARS FOR THIS DAY {3}/{4}/{5}\n'.format(datefield, types, pastyears, day, month, year)
-        total = median = counter = weekends = 0
+        total = median = counter = weekends = weekendtotal = 0
         # Loop through and make the calculation
         nums = []
         while counter < pastyears:
@@ -207,17 +262,21 @@ class LegislationParser:
             if dayofweek == 5 or dayofweek == 6:
                 weekend = '[Its the weekend!]'
                 weekends = weekends+1
+                weekendtotal = weekendtotal + count
             else:
-                count = self.countlegi(datefield, year, month, day, types)   
                 total = total + count
                 nums.append(count)
             mystr = '{0} legislation {1}/{2}/{3} = {4} {5}'.format(datefield, day, month, year, count, weekend)
             op = op+mystr+'\n'
             counter = counter+1
             year = year-1
-        # Calculate mean 
-        releventyears  = pastyears-weekends    
-        mean = total/releventyears
+        # Calculate mean
+        if isweekend == False:
+            releventyears  = pastyears-weekends
+            mean = total/releventyears
+        else:
+            releventyears  = weekends
+            mean = weekendtotal/releventyears
         hourly = round(mean/hoursinday, 2)
         if hoursinday != 24.00:
             print('{0}{1}TOTAL={2} MEAN(per hour)={3}'.format(header, op, total, hourly))  
