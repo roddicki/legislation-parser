@@ -3,7 +3,6 @@ import time
 from vellum import LegislationParser
 from make_json import makeJSON
 
-
 # Global object to parse legislation data
 db = "/home4/roddicki/legislation-parser/data/db.sqlite3"
 legi = LegislationParser(db)
