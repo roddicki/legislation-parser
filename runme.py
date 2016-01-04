@@ -5,7 +5,13 @@ from make_json import makeJSON
 
 
 # Global object to parse legislation data
-legi = LegislationParser()
+# won't run on server - uncomment to run locally
+#legi = LegislationParser()
+
+# Global object to parse legislation data
+# won't run locally - comment out to run locally
+db = "/home4/roddicki/legislation-parser/data/db.sqlite3"
+legi = LegislationParser(db)
 
 def run():
     # Save the latest legislation entries from:
