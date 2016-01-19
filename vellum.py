@@ -32,6 +32,12 @@ from databasebuilder import DatabaseBuilder
 logging.basicConfig(level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def run():
+    # Object to parse legislation data
+    db = "data/db.sqlite3"
+    legi = LegislationParser(db)
+    frequencytest(legi)
+
+def run2():
   
     # Object to parse legislation data
     db = "data/db.sqlite3"
@@ -76,16 +82,16 @@ def frequencytest(legi):
     output = ''
     # Prep query variables and store todays date
     datefield = 'published'
-    day =  4 # int(time.strftime("%d"))
-    month = 1 # int(time.strftime("%m"))
-    year =  2015 # int(time.strftime("%Y"))
+    day =  int(time.strftime("%d"))
+    month = int(time.strftime("%m"))
+    year =  int(time.strftime("%Y"))
     types = 'uksi ssi wsi ukci ukdsi sdsi nidsr wdsi'
     # Todays hourly frequency of legislation so far
     perhour = legi.countaveragelegi(1, datefield, year, month, day, types)
     todayPerhour = perhour['mean-perhour']
     # Mean hourly frequency of legislation over past 20 years
     yearsback = 20
-    result = legi.countaveragelegi(yearsback, datefield, year-1, month, day, types)
+    result = legi.countaveragelegi(yearsback, datefield, year, month, day, types)
     mean = result['mean-perhour']
     standard = result['standard-deviation']
     ranger = 0.1
@@ -236,21 +242,25 @@ class LegislationParser:
     
     # Count average frequency of legislation for past n years
     def countaveragelegi(self, pastyears, datefield, year, month=None, day=None, types=None):
+        #day = 16
         op = ''
-        # Is thisnday a weekend?
+        # Is this day a weekend?
         isweekend = False 
         dayofweek = datetime.datetime(year, month, day).weekday()
         if dayofweek == 5 or dayofweek == 6:
             isweekend = True
         # If its todays date calculate hourly average up until current time
-        today = time.strftime("%d/%m/%Y") 
+        today = time.strftime("%-d/%-m/%Y") 
         qrydate = '{0}/{1}/{2}'.format(day,month,year)
-        hoursinday = 24.0  
-        if today == qrydate:
+        hoursinday = 24.0 
+        if today == qrydate and pastyears==1:
             hoursinday = float(time.strftime("%H")) 
             header = '\nLEGISLATION PUBLISHED IN THE LAST {0} HOURS\n'.format(int(hoursinday))
         else:
             header = '\nAVERAGE "{0}" "{1}" LEGISLATION FOR PAST {2} YEARS FOR THIS DAY {3}/{4}/{5}\n'.format(datefield, types, pastyears, day, month, year)
+        # If we are looking at multiple years then only include whole days (not today)
+        if pastyears > 1:
+            year = year-1
         total = median = counter = weekends = weekendtotal = 0
         # Loop through and make the calculation
         nums = []
@@ -278,9 +288,12 @@ class LegislationParser:
             releventyears  = weekends
             mean = weekendtotal/releventyears
         hourly = round(mean/hoursinday, 2)
+        # If we are returning the mean for the day
         if hoursinday != 24.00:
             print('{0}{1}TOTAL={2} MEAN(per hour)={3}'.format(header, op, total, hourly))  
-            return hourly    
+            result = {}
+            result['mean-perhour'] = hourly
+            return result
         # Calculate standard deviation of legislation per day
         tot = 0 
         for v in nums:
